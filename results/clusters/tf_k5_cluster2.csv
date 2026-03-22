@@ -1,0 +1,1088 @@
+ga_session_id,user_pseudo_id,session_date,total_events,total_engagement_sec,conversions,converted,unique_screens,loan_amount_brl,net_disbursed_brl,platform,app_version,device_os,country,city,traffic_source,traffic_medium,traffic_campaign,state,cluster
+1005594895,user_132430,2026-03-07,18,86.7,0,0,5,3000.0,2856.23,IOS,7.42.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+1024800991,user_135232,2026-03-27,18,100.3,0,0,5,5000.0,4697.08,IOS,7.43.0,iOS 18,BR,São Paulo,organic,organic,(not set),SP,2
+1027619919,user_134882,2026-03-23,18,98.6,0,0,5,20000.0,18761.13,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,campanha_marco_consignado,MG,2
+1042592814,user_133853,2026-03-21,19,77.7,0,0,5,1500.0,1444.1,IOS,7.43.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+1045893388,user_100461,2026-03-09,20,102.5,0,0,5,2000.0,1912.25,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+1047349927,user_117151,2026-03-29,19,91.2,0,0,5,20000.0,19653.85,IOS,7.41.0,iOS 18,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+1047488541,user_117793,2026-03-28,19,105.8,0,0,5,2000.0,1963.81,IOS,7.41.0,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+1059779796,user_122398,2026-03-02,18,86.0,0,0,5,2000.0,1890.41,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+1062064817,user_106862,2026-03-11,20,91.2,0,0,5,5000.0,4634.85,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,crm_email,email,retargeting_preaprovado,RJ,2
+1064742125,user_112033,2026-03-19,19,83.0,0,0,5,5000.0,4949.38,IOS,7.41.1,iOS 18,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+1067076133,user_133583,2026-03-01,18,96.2,0,0,5,30000.0,27629.47,ANDROID,7.41.1,Android 14,BR,Salvador,crm_email,email,cross_sell_folha,BA,2
+1073008954,user_137797,2026-03-17,19,109.0,0,0,5,10000.0,9827.64,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+1085381528,user_121972,2026-03-13,19,101.1,0,0,5,5000.0,4810.8,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+1090513219,user_113235,2026-03-25,19,94.9,0,0,5,1500.0,1384.8,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,always_on_credito,BA,2
+1095301435,user_116210,2026-03-28,19,104.4,0,0,5,5000.0,4703.39,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+1096667706,user_113720,2026-03-27,18,81.9,0,0,5,7000.0,6660.11,IOS,7.42.0,iOS 18,BR,Curitiba,crm_email,email,(not set),PR,2
+1099739168,user_132738,2026-03-31,19,104.5,0,0,5,7000.0,6871.58,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+1139095081,user_109672,2026-03-20,19,95.6,0,0,5,7000.0,6819.61,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,direct,(none),(not set),RJ,2
+1144267283,user_131881,2026-03-22,19,77.9,0,0,5,30000.0,29610.86,IOS,7.43.0,iOS 18,BR,São Paulo,direct,(none),always_on_credito,SP,2
+1146535557,user_118303,2026-03-04,20,99.8,0,0,5,20000.0,18714.65,IOS,7.43.0,iOS 18,BR,Porto Alegre,direct,(none),(not set),RS,2
+1151264545,user_137936,2026-03-02,18,99.1,0,0,5,15000.0,13985.39,ANDROID,7.41.0,Android 14,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+1163927634,user_122422,2026-03-27,18,75.2,0,0,5,1500.0,1413.41,IOS,7.41.0,iOS 18,BR,Salvador,push,push_notification,(not set),BA,2
+1166980230,user_112779,2026-03-20,19,89.5,0,0,5,2000.0,1877.72,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,always_on_credito,MG,2
+1175746576,user_127221,2026-03-27,18,92.7,0,0,5,30000.0,28881.18,ANDROID,7.41.1,Android 14,BR,Curitiba,direct,(none),(not set),PR,2
+1184437825,user_107322,2026-03-16,17,70.1,0,0,5,1000.0,963.21,IOS,7.41.1,iOS 18,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+1203069604,user_106726,2026-03-11,17,62.6,0,0,5,30000.0,29031.26,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+1207209144,user_129138,2026-03-11,19,71.2,0,0,5,5000.0,4724.53,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+1210633513,user_136354,2026-03-31,20,104.9,0,0,5,15000.0,13994.11,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+1213741030,user_132745,2026-03-12,19,91.8,0,0,5,3000.0,2946.13,IOS,7.42.0,iOS 18,BR,São Paulo,organic,organic,always_on_credito,SP,2
+1216444889,user_123945,2026-03-30,17,72.4,0,0,5,5000.0,4776.03,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,(not set),MG,2
+1220637177,user_100886,2026-03-31,20,108.6,0,0,5,5000.0,4857.25,IOS,7.41.0,iOS 18,BR,Belo Horizonte,organic,organic,campanha_marco_consignado,MG,2
+1233196214,user_126544,2026-03-21,18,82.6,0,0,5,1000.0,987.86,IOS,7.41.1,iOS 18,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+1240469205,user_125734,2026-03-29,19,87.4,0,0,5,10000.0,9792.24,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),retargeting_preaprovado,PR,2
+1246647688,user_100517,2026-03-19,18,83.1,0,0,5,7000.0,6470.13,IOS,7.41.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+1252084402,user_110550,2026-03-24,19,107.0,0,0,5,20000.0,19772.13,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+1266035921,user_126164,2026-03-19,19,104.6,0,0,5,1000.0,930.12,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,paid_search,cpc,(not set),MG,2
+1275713849,user_106811,2026-03-17,19,74.6,0,0,5,20000.0,19574.42,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+1287114485,user_120720,2026-03-22,19,98.5,0,0,5,1500.0,1410.11,ANDROID,7.41.1,Android 14,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+1290551122,user_138851,2026-03-09,18,94.8,0,0,5,2000.0,1905.18,ANDROID,7.41.0,Android 14,BR,Curitiba,paid_search,cpc,(not set),PR,2
+1303544813,user_118097,2026-03-24,19,80.9,0,0,5,30000.0,28327.57,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,organic,organic,always_on_credito,RJ,2
+1310232574,user_137021,2026-03-29,18,80.7,0,0,5,30000.0,28918.19,ANDROID,7.41.0,Android 14,BR,Salvador,crm_email,email,(not set),BA,2
+1313801985,user_125414,2026-03-27,19,74.2,0,0,5,3000.0,2869.95,IOS,7.43.0,iOS 18,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+1321000150,user_116350,2026-03-20,19,82.2,0,0,5,1000.0,920.45,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,retargeting_preaprovado,RJ,2
+1322388531,user_122953,2026-03-24,18,83.7,0,0,5,15000.0,14400.53,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+1333457560,user_114677,2026-03-09,19,84.9,0,0,5,7000.0,6672.33,ANDROID,7.42.0,Android 14,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+1348094992,user_129735,2026-03-04,19,84.1,0,0,5,10000.0,9590.89,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+1355648034,user_107496,2026-03-25,17,83.5,0,0,5,15000.0,14308.76,IOS,7.42.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+1357753072,user_120728,2026-03-29,19,68.8,0,0,5,5000.0,4914.89,ANDROID,7.41.1,Android 14,BR,Curitiba,direct,(none),always_on_credito,PR,2
+1381581245,user_107897,2026-03-04,19,101.6,0,0,5,15000.0,14600.63,IOS,7.42.0,iOS 18,BR,Salvador,crm_email,email,cross_sell_folha,BA,2
+1390028194,user_112877,2026-03-12,20,87.1,0,0,5,10000.0,9441.75,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+1390915349,user_132613,2026-03-07,18,82.7,0,0,5,30000.0,29479.23,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,(not set),BA,2
+1405253606,user_110886,2026-03-25,19,112.9,0,0,5,2000.0,1935.7,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+1407384140,user_110962,2026-03-15,19,100.0,0,0,5,7000.0,6714.25,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+1408631908,user_108130,2026-03-31,19,85.1,0,0,5,10000.0,9765.64,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+1424401745,user_130806,2026-03-05,17,86.2,0,0,5,15000.0,13871.51,ANDROID,7.42.0,Android 14,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+1440354578,user_131766,2026-03-31,18,81.9,0,0,5,30000.0,27992.57,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,always_on_credito,BA,2
+1457843719,user_100500,2026-03-10,19,103.3,0,0,5,1000.0,970.0,ANDROID,7.41.1,Android 14,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+1459023536,user_136131,2026-03-05,19,90.0,0,0,5,1500.0,1426.38,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+1460466321,user_139632,2026-03-17,19,82.7,0,0,5,5000.0,4913.35,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+1468695313,user_135596,2026-03-25,19,72.8,0,0,5,5000.0,4695.34,ANDROID,7.43.0,Android 14,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+1470240070,user_118834,2026-03-25,19,125.7,0,0,5,5000.0,4915.92,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+1473935251,user_106867,2026-03-21,20,119.9,0,0,5,7000.0,6601.59,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+1477465617,user_102442,2026-03-13,19,88.1,0,0,5,1000.0,984.83,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,direct,(none),retargeting_preaprovado,RJ,2
+1484641431,user_135167,2026-03-04,18,78.9,0,0,5,1000.0,987.85,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,(not set),BA,2
+1501756709,user_107683,2026-03-19,18,95.0,0,0,5,5000.0,4722.43,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),(not set),MG,2
+1511767053,user_106663,2026-03-20,18,100.1,0,0,5,30000.0,28623.45,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+1522884862,user_138469,2026-03-08,19,74.4,0,0,5,1500.0,1424.25,ANDROID,7.43.0,Android 14,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+1528143294,user_136521,2026-03-16,18,84.9,0,0,5,3000.0,2961.35,ANDROID,7.41.0,Android 14,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+1531869149,user_107201,2026-03-06,19,73.8,0,0,5,1500.0,1473.18,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+1540957086,user_131965,2026-03-22,19,72.8,0,0,5,30000.0,27797.84,ANDROID,7.43.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,campanha_marco_consignado,RS,2
+1541923549,user_111487,2026-03-11,19,92.7,0,0,5,1500.0,1476.1,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+1543240875,user_100012,2026-03-25,18,74.1,0,0,5,2000.0,1945.82,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,always_on_credito,MG,2
+1548516940,user_107434,2026-03-31,19,89.6,0,0,5,3000.0,2892.45,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+1554020948,user_102470,2026-03-27,18,83.4,0,0,5,2000.0,1958.84,IOS,7.43.0,iOS 18,BR,São Paulo,organic,organic,always_on_credito,SP,2
+1566105482,user_120899,2026-03-21,18,82.7,0,0,5,15000.0,14597.01,ANDROID,7.43.0,Android 14,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+1576852186,user_121605,2026-03-08,18,88.3,0,0,5,3000.0,2939.76,IOS,7.43.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+1589458373,user_127186,2026-03-21,20,93.9,0,0,5,30000.0,27728.26,IOS,7.41.1,iOS 18,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+1619806562,user_137538,2026-03-15,19,81.7,0,0,5,2000.0,1848.23,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+1636813803,user_124460,2026-03-09,19,74.2,0,0,5,15000.0,14726.82,ANDROID,7.41.0,Android 14,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+1659550406,user_120935,2026-03-31,20,96.7,0,0,5,15000.0,14736.3,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+1660702319,user_112588,2026-03-24,17,81.6,0,0,5,5000.0,4781.24,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,direct,(none),always_on_credito,RJ,2
+1661450459,user_103782,2026-03-20,18,90.0,0,0,5,20000.0,18693.18,ANDROID,7.43.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+1661485803,user_106389,2026-03-23,18,85.4,0,0,5,5000.0,4937.08,ANDROID,7.43.0,Android 14,BR,Curitiba,push,push_notification,cross_sell_folha,PR,2
+1663820214,user_113429,2026-03-04,18,88.7,0,0,5,20000.0,19150.24,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,direct,(none),retargeting_preaprovado,RJ,2
+1673312866,user_104083,2026-03-24,19,93.0,0,0,5,7000.0,6756.84,ANDROID,7.41.1,Android 14,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+1687304324,user_126710,2026-03-12,19,82.4,0,0,5,2000.0,1959.02,IOS,7.42.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+1697064069,user_108632,2026-03-04,19,93.8,0,0,5,10000.0,9809.33,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+1708912175,user_138654,2026-03-10,20,107.2,0,0,5,1500.0,1395.53,IOS,7.41.0,iOS 18,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+1714853087,user_117213,2026-03-28,18,83.7,0,0,5,1500.0,1453.24,ANDROID,7.41.0,Android 14,BR,Salvador,organic,organic,cross_sell_folha,BA,2
+1724404252,user_107350,2026-03-20,17,93.9,0,0,5,1500.0,1434.88,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+1734483276,user_132243,2026-03-29,19,103.8,0,0,5,2000.0,1972.43,IOS,7.43.0,iOS 18,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+1742254537,user_102065,2026-03-31,18,80.3,0,0,5,30000.0,28632.38,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+1747532897,user_136180,2026-03-26,18,92.4,0,0,5,15000.0,14771.93,ANDROID,7.41.0,Android 14,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+1755713961,user_106885,2026-03-28,18,70.7,0,0,5,3000.0,2940.82,IOS,7.41.0,iOS 18,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+1760687482,user_102795,2026-03-08,18,86.9,0,0,5,2000.0,1914.74,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,retargeting_preaprovado,RJ,2
+1766555685,user_126457,2026-03-03,18,71.2,0,0,5,20000.0,18624.12,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+1771134659,user_125070,2026-03-22,19,96.6,0,0,5,30000.0,28790.79,ANDROID,7.41.0,Android 14,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+1774482241,user_109565,2026-03-29,18,86.8,0,0,5,1500.0,1473.22,IOS,7.43.0,iOS 18,BR,Belo Horizonte,organic,organic,campanha_marco_consignado,MG,2
+1795390462,user_139472,2026-03-25,19,96.6,0,0,5,1500.0,1474.81,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+1797546084,user_103255,2026-03-29,18,95.6,0,0,5,5000.0,4865.62,ANDROID,7.41.1,Android 14,BR,São Paulo,direct,(none),always_on_credito,SP,2
+1803967063,user_131895,2026-03-17,17,100.4,0,0,5,10000.0,9209.05,ANDROID,7.43.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+1805121551,user_126766,2026-03-15,18,75.9,0,0,5,1000.0,926.17,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+1834877739,user_112899,2026-03-26,20,92.2,0,0,5,20000.0,18645.61,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+1835309474,user_108489,2026-03-05,19,113.3,0,0,5,10000.0,9761.09,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,direct,(none),retargeting_preaprovado,RJ,2
+1845235542,user_117715,2026-03-31,19,95.4,0,0,5,2000.0,1964.46,IOS,7.43.0,iOS 18,BR,Porto Alegre,paid_search,cpc,retargeting_preaprovado,RS,2
+1846589097,user_108046,2026-03-05,18,92.3,0,0,5,2000.0,1862.73,IOS,7.42.0,iOS 18,BR,São Paulo,organic,organic,campanha_marco_consignado,SP,2
+1849883041,user_138544,2026-03-03,18,71.7,0,0,5,20000.0,18714.27,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+1864956632,user_129796,2026-03-12,19,111.4,0,0,5,1000.0,935.43,IOS,7.41.1,iOS 18,BR,Porto Alegre,push,push_notification,always_on_credito,RS,2
+1873494513,user_118679,2026-03-28,19,96.1,0,0,5,20000.0,18988.73,IOS,7.41.0,iOS 18,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+1873993551,user_134281,2026-03-04,17,61.0,0,0,5,20000.0,18615.67,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+1875129125,user_125331,2026-03-13,20,104.4,0,0,5,30000.0,28664.18,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,cross_sell_folha,MG,2
+1877755816,user_138036,2026-03-14,19,93.7,0,0,5,1500.0,1426.63,ANDROID,7.43.0,Android 14,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+1893393073,user_135204,2026-03-12,19,89.1,0,0,5,1000.0,933.61,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+1893468958,user_116288,2026-03-08,19,95.7,0,0,5,7000.0,6826.04,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),(not set),MG,2
+1895935469,user_119714,2026-03-29,19,92.5,0,0,5,30000.0,28541.81,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+1901461145,user_134426,2026-03-30,20,107.3,0,0,5,15000.0,14532.91,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+1905280083,user_102379,2026-03-20,18,96.1,0,0,5,3000.0,2927.78,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,crm_email,email,always_on_credito,RJ,2
+1905357583,user_102838,2026-03-22,18,78.9,0,0,5,30000.0,29587.67,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+1908194344,user_125146,2026-03-17,17,81.4,0,0,5,1000.0,985.77,IOS,7.42.0,iOS 18,BR,Porto Alegre,push,push_notification,(not set),RS,2
+1919525428,user_122572,2026-03-18,19,94.7,0,0,5,1500.0,1393.47,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,organic,organic,always_on_credito,RJ,2
+1926962556,user_127173,2026-03-27,19,94.4,0,0,5,1500.0,1476.94,ANDROID,7.42.0,Android 14,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+1951284308,user_116280,2026-03-29,18,75.6,0,0,5,2000.0,1849.45,IOS,7.41.0,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+1951348962,user_137292,2026-03-16,19,65.6,0,0,5,30000.0,27887.78,ANDROID,7.41.1,Android 14,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+1963130036,user_102731,2026-03-11,18,80.2,0,0,5,20000.0,19562.37,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+1966596949,user_121479,2026-03-05,19,96.7,0,0,5,30000.0,29424.65,IOS,7.42.0,iOS 18,BR,Salvador,organic,organic,cross_sell_folha,BA,2
+1971194749,user_125887,2026-03-18,18,94.7,0,0,5,1500.0,1439.55,IOS,7.43.0,iOS 18,BR,Salvador,push,push_notification,(not set),BA,2
+1972706922,user_100023,2026-03-15,18,77.4,0,0,5,30000.0,28734.54,IOS,7.41.0,iOS 18,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+1979924096,user_122016,2026-03-01,19,118.2,0,0,5,20000.0,18998.84,IOS,7.42.0,iOS 18,BR,Salvador,crm_email,email,always_on_credito,BA,2
+1994119179,user_125332,2026-03-06,19,98.9,0,0,5,10000.0,9368.72,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,(not set),RS,2
+1997949082,user_105605,2026-03-20,19,72.9,0,0,5,30000.0,27806.25,ANDROID,7.42.0,Android 14,BR,Salvador,direct,(none),campanha_marco_consignado,BA,2
+2002337755,user_124806,2026-03-26,18,68.7,0,0,5,1000.0,979.59,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,(not set),BA,2
+2019130744,user_119473,2026-03-23,20,88.5,0,0,5,7000.0,6844.4,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,cross_sell_folha,MG,2
+2022677013,user_116016,2026-03-07,19,113.9,0,0,5,1500.0,1475.8,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+2023613889,user_102708,2026-03-08,18,90.7,0,0,5,2000.0,1876.65,IOS,7.42.0,iOS 18,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+2034046129,user_121522,2026-03-12,19,105.9,0,0,5,1500.0,1437.27,IOS,7.41.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+2042415784,user_101990,2026-03-30,19,96.0,0,0,5,1500.0,1422.75,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+2049170595,user_108397,2026-03-21,18,95.6,0,0,5,1500.0,1443.55,ANDROID,7.42.0,Android 14,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+2079102177,user_139998,2026-03-25,19,94.0,0,0,5,15000.0,14747.56,IOS,7.43.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+2079728492,user_134256,2026-03-29,18,87.0,0,0,5,1500.0,1461.42,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+2081469005,user_133490,2026-03-30,18,97.9,0,0,5,2000.0,1917.32,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,campanha_marco_consignado,MG,2
+2101792939,user_114012,2026-03-04,19,99.1,0,0,5,30000.0,29509.38,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,(not set),PR,2
+2102556331,user_118680,2026-03-12,19,100.1,0,0,5,15000.0,14426.96,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+2106612865,user_110528,2026-03-24,18,106.6,0,0,5,1500.0,1427.07,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,campanha_marco_consignado,RJ,2
+2110281146,user_109437,2026-03-02,18,81.2,0,0,5,15000.0,14841.66,IOS,7.41.1,iOS 18,BR,Porto Alegre,crm_email,email,always_on_credito,RS,2
+2118373535,user_108278,2026-03-14,20,101.8,0,0,5,30000.0,29483.75,IOS,7.43.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+2126386286,user_130873,2026-03-12,18,95.7,0,0,5,3000.0,2952.95,ANDROID,7.41.0,Android 14,BR,Salvador,organic,organic,(not set),BA,2
+2137207374,user_102169,2026-03-29,19,88.3,0,0,5,7000.0,6882.4,ANDROID,7.42.0,Android 14,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+2143635454,user_121959,2026-03-18,19,111.2,0,0,5,3000.0,2874.95,IOS,7.42.0,iOS 18,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+2158551526,user_131412,2026-03-18,17,74.8,0,0,5,3000.0,2792.23,IOS,7.43.0,iOS 18,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+2161358027,user_116702,2026-03-07,19,102.1,0,0,5,2000.0,1964.46,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+2161419613,user_123951,2026-03-06,18,113.0,0,0,5,2000.0,1951.43,IOS,7.41.0,iOS 18,BR,Salvador,organic,organic,(not set),BA,2
+2167833630,user_120043,2026-03-16,18,85.7,0,0,5,15000.0,14148.96,IOS,7.41.0,iOS 18,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+2190208881,user_100011,2026-03-31,18,99.4,0,0,5,15000.0,14717.25,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,cross_sell_folha,PR,2
+2195224553,user_129886,2026-03-20,19,95.2,0,0,5,1000.0,977.7,IOS,7.42.0,iOS 18,BR,São Paulo,paid_search,cpc,(not set),SP,2
+2197044594,user_123395,2026-03-09,18,83.2,0,0,5,30000.0,27839.24,ANDROID,7.42.0,Android 14,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+2197309347,user_133879,2026-03-05,18,80.9,0,0,5,1000.0,954.8,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,always_on_credito,BA,2
+2199110510,user_136163,2026-03-03,20,81.7,0,0,5,7000.0,6542.57,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,(not set),RS,2
+2230228689,user_123499,2026-03-29,19,60.7,0,0,5,1000.0,946.12,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+2235552078,user_117148,2026-03-20,18,72.4,0,0,5,30000.0,27985.87,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+2242601297,user_132492,2026-03-13,19,88.2,0,0,5,15000.0,14665.54,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+2245504548,user_116903,2026-03-29,18,86.4,0,0,5,20000.0,18755.83,IOS,7.41.0,iOS 18,BR,Porto Alegre,direct,(none),always_on_credito,RS,2
+2245578597,user_112736,2026-03-21,18,92.2,0,0,5,1000.0,975.57,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,(not set),BA,2
+2251473406,user_112580,2026-03-25,18,79.5,0,0,5,10000.0,9273.01,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+2257799626,user_102504,2026-03-01,19,88.7,0,0,5,1000.0,970.24,IOS,7.41.0,iOS 18,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+2264357242,user_124171,2026-03-21,18,81.7,0,0,5,15000.0,14605.75,IOS,7.41.1,iOS 18,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+2269449653,user_104939,2026-03-08,18,93.9,0,0,5,20000.0,19038.81,ANDROID,7.41.0,Android 14,BR,São Paulo,direct,(none),always_on_credito,SP,2
+2270947016,user_124474,2026-03-18,19,96.5,0,0,5,1000.0,987.28,IOS,7.42.0,iOS 18,BR,Curitiba,push,push_notification,(not set),PR,2
+2282603434,user_117018,2026-03-20,19,96.1,0,0,5,2000.0,1907.3,ANDROID,7.41.1,Android 14,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+2284063761,user_137327,2026-03-26,19,102.3,0,0,5,20000.0,19376.21,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+2284655517,user_129882,2026-03-27,18,113.8,0,0,5,10000.0,9535.66,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+2290690587,user_122984,2026-03-28,18,94.1,0,0,5,1000.0,948.44,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+2295415504,user_127627,2026-03-29,19,92.5,0,0,5,1500.0,1380.28,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),cross_sell_folha,SP,2
+2299458322,user_136971,2026-03-02,17,84.7,0,0,5,20000.0,18637.61,IOS,7.42.0,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+2307150569,user_127497,2026-03-17,18,80.0,0,0,5,3000.0,2827.0,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+2316102711,user_139571,2026-03-25,19,88.5,0,0,5,2000.0,1979.47,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,organic,organic,always_on_credito,MG,2
+2327206560,user_123923,2026-03-20,19,96.9,0,0,5,2000.0,1848.92,IOS,7.43.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+2332125293,user_110984,2026-03-07,18,79.6,0,0,5,3000.0,2940.71,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+2333810960,user_114951,2026-03-14,19,97.1,0,0,5,30000.0,28996.45,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+2339121755,user_105339,2026-03-29,17,74.9,0,0,5,30000.0,29656.56,ANDROID,7.43.0,Android 14,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+2344231978,user_136288,2026-03-15,18,88.2,0,0,5,15000.0,14072.48,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+2347150741,user_131334,2026-03-12,19,98.8,0,0,5,7000.0,6483.7,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+2351939052,user_124784,2026-03-09,19,93.3,0,0,5,10000.0,9751.75,IOS,7.41.0,iOS 18,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+2361135868,user_127831,2026-03-23,18,98.6,0,0,5,1500.0,1449.22,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+2370738898,user_113219,2026-03-14,18,98.6,0,0,5,5000.0,4811.19,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,retargeting_preaprovado,MG,2
+2371987875,user_116391,2026-03-03,19,83.7,0,0,5,20000.0,18423.04,ANDROID,7.41.1,Android 14,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+2372811697,user_125939,2026-03-14,19,79.8,0,0,5,1500.0,1436.56,ANDROID,7.41.0,Android 14,BR,Porto Alegre,push,push_notification,cross_sell_folha,RS,2
+2390237810,user_103529,2026-03-28,19,90.5,0,0,5,30000.0,28298.9,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+2394605430,user_127594,2026-03-22,18,80.4,0,0,5,3000.0,2799.65,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,retargeting_preaprovado,RJ,2
+2400308970,user_133846,2026-03-08,19,92.9,0,0,5,2000.0,1889.39,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,direct,(none),retargeting_preaprovado,RJ,2
+2400332431,user_112736,2026-03-29,18,91.9,0,0,5,3000.0,2853.27,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+2403729062,user_134824,2026-03-04,18,78.4,0,0,5,7000.0,6460.14,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,(not set),SP,2
+2410948303,user_132163,2026-03-24,19,86.8,0,0,5,2000.0,1894.65,ANDROID,7.43.0,Android 14,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+2425531902,user_122736,2026-03-14,20,102.0,0,0,5,10000.0,9766.53,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,cross_sell_folha,BA,2
+2449014004,user_100182,2026-03-30,20,101.3,0,0,5,2000.0,1867.01,IOS,7.43.0,iOS 18,BR,São Paulo,direct,(none),always_on_credito,SP,2
+2460569065,user_122494,2026-03-13,20,89.2,0,0,5,1000.0,953.66,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+2469297325,user_108103,2026-03-26,18,85.1,0,0,5,30000.0,28265.25,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+2473696844,user_138675,2026-03-13,19,89.2,0,0,5,3000.0,2852.97,IOS,7.42.0,iOS 18,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+2479622489,user_134342,2026-03-07,20,79.1,0,0,5,2000.0,1971.08,IOS,7.42.0,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+2504138130,user_137431,2026-03-09,18,85.2,0,0,5,1000.0,943.25,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+2508877821,user_131806,2026-03-14,19,93.7,0,0,5,3000.0,2789.11,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+2508909763,user_101295,2026-03-18,18,90.0,0,0,5,10000.0,9864.97,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+2524632033,user_101484,2026-03-09,18,95.2,0,0,5,5000.0,4681.94,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+2546224039,user_113413,2026-04-01,19,111.2,0,0,5,1500.0,1472.58,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,(not set),RJ,2
+2551832131,user_128892,2026-03-11,18,95.3,0,0,5,10000.0,9624.16,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,crm_email,email,(not set),RJ,2
+2571616873,user_124540,2026-03-03,20,69.9,0,0,5,7000.0,6795.58,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,cross_sell_folha,BA,2
+2582969871,user_110421,2026-03-01,20,89.6,0,0,5,1500.0,1392.39,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,(not set),SP,2
+2587316502,user_126919,2026-03-14,19,89.9,0,0,5,15000.0,14239.37,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,retargeting_preaprovado,PR,2
+2618266090,user_130582,2026-03-08,19,89.9,0,0,5,30000.0,29530.8,IOS,7.43.0,iOS 18,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+2619316655,user_102064,2026-03-01,19,107.7,0,0,5,10000.0,9406.46,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+2621720389,user_135314,2026-03-12,19,106.0,0,0,5,30000.0,28531.79,IOS,7.41.0,iOS 18,BR,Porto Alegre,crm_email,email,always_on_credito,RS,2
+2632237311,user_117888,2026-03-23,18,89.7,0,0,5,1500.0,1385.38,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+2634333400,user_127990,2026-03-14,18,85.4,0,0,5,1500.0,1419.25,IOS,7.43.0,iOS 18,BR,São Paulo,direct,(none),retargeting_preaprovado,SP,2
+2639249440,user_120744,2026-03-20,18,88.6,0,0,5,5000.0,4645.71,IOS,7.43.0,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+2646742915,user_113767,2026-03-09,17,75.2,0,0,5,2000.0,1978.37,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+2653694481,user_127381,2026-03-28,19,79.0,0,0,5,15000.0,13845.8,IOS,7.41.0,iOS 18,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+2663349220,user_130131,2026-04-01,19,104.8,0,0,5,1000.0,920.41,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+2684434067,user_133347,2026-03-21,19,111.0,0,0,5,7000.0,6522.96,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+2691411682,user_123587,2026-03-22,18,88.7,0,0,5,3000.0,2939.83,ANDROID,7.41.0,Android 14,BR,Curitiba,direct,(none),campanha_marco_consignado,PR,2
+2697340045,user_139494,2026-03-28,18,86.5,0,0,5,7000.0,6742.57,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,(not set),PR,2
+2702808388,user_102951,2026-03-31,19,95.1,0,0,5,10000.0,9472.59,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+2704628182,user_120959,2026-03-09,18,82.0,0,0,5,10000.0,9497.74,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,organic,organic,(not set),MG,2
+2707577240,user_109957,2026-03-03,19,87.7,0,0,5,30000.0,28287.7,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+2725014285,user_134534,2026-03-31,18,86.3,0,0,5,5000.0,4600.88,ANDROID,7.41.0,Android 14,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+2732904433,user_113596,2026-03-21,19,97.8,0,0,5,3000.0,2939.93,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,paid_search,cpc,(not set),RJ,2
+2747738791,user_129654,2026-03-14,18,94.5,0,0,5,2000.0,1967.01,ANDROID,7.43.0,Android 14,BR,São Paulo,direct,(none),cross_sell_folha,SP,2
+2748526201,user_104513,2026-03-17,19,92.2,0,0,5,5000.0,4878.38,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+2750110670,user_137217,2026-03-24,18,88.0,0,0,5,1000.0,980.04,IOS,7.43.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+2751573606,user_117464,2026-03-08,20,93.4,0,0,5,15000.0,14595.48,IOS,7.42.0,iOS 18,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+2755365370,user_127168,2026-03-12,19,93.1,0,0,5,30000.0,28050.05,ANDROID,7.41.0,Android 14,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+2759589612,user_137890,2026-03-24,19,96.9,0,0,5,15000.0,13872.15,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+2761975170,user_118940,2026-03-29,19,100.2,0,0,5,10000.0,9371.77,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+2766105544,user_107171,2026-03-18,18,86.9,0,0,5,30000.0,27753.52,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+2766658855,user_115662,2026-03-12,19,106.7,0,0,5,5000.0,4657.45,IOS,7.43.0,iOS 18,BR,Porto Alegre,paid_search,cpc,retargeting_preaprovado,RS,2
+2770813056,user_116932,2026-03-02,20,113.7,0,0,5,30000.0,29085.38,ANDROID,7.42.0,Android 14,BR,Curitiba,push,push_notification,cross_sell_folha,PR,2
+2775501101,user_101364,2026-03-07,18,83.7,0,0,5,10000.0,9205.03,IOS,7.43.0,iOS 18,BR,Belo Horizonte,crm_email,email,cross_sell_folha,MG,2
+2796089088,user_127900,2026-03-29,19,84.5,0,0,5,2000.0,1959.73,ANDROID,7.43.0,Android 14,BR,Porto Alegre,push,push_notification,cross_sell_folha,RS,2
+2799990935,user_137882,2026-03-01,19,121.5,0,0,5,10000.0,9559.67,ANDROID,7.41.1,Android 14,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+2822544100,user_118401,2026-03-28,18,84.7,0,0,5,2000.0,1924.05,ANDROID,7.43.0,Android 14,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+2835595167,user_108632,2026-03-18,18,96.6,0,0,5,15000.0,14028.86,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+2845451712,user_117860,2026-03-24,18,95.2,0,0,5,10000.0,9403.84,IOS,7.41.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+2846754005,user_110897,2026-03-26,19,84.3,0,0,5,5000.0,4701.58,IOS,7.42.0,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+2850703098,user_112003,2026-03-12,18,77.2,0,0,5,1000.0,921.17,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,direct,(none),(not set),RJ,2
+2851703064,user_123381,2026-03-26,18,96.9,0,0,5,1000.0,924.92,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+2853692274,user_116907,2026-03-28,20,97.2,0,0,5,10000.0,9444.69,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+2862320155,user_119742,2026-03-16,19,94.8,0,0,5,7000.0,6666.29,ANDROID,7.41.0,Android 14,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+2895555871,user_123952,2026-03-09,19,76.3,0,0,5,7000.0,6478.41,IOS,7.41.1,iOS 18,BR,São Paulo,push,push_notification,(not set),SP,2
+2901912808,user_129067,2026-03-04,18,95.7,0,0,5,10000.0,9432.24,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+2908514446,user_104800,2026-03-17,18,94.5,0,0,5,30000.0,28221.39,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+2920149214,user_136553,2026-03-01,18,74.4,0,0,5,5000.0,4808.5,IOS,7.43.0,iOS 18,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+2922057758,user_122073,2026-03-05,19,98.3,0,0,5,20000.0,19477.19,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+2924300325,user_107425,2026-03-10,19,77.8,0,0,5,1500.0,1474.42,ANDROID,7.41.0,Android 14,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+2925418007,user_131903,2026-03-12,19,82.9,0,0,5,30000.0,27976.68,IOS,7.41.1,iOS 18,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+2926279425,user_121956,2026-03-31,17,67.6,0,0,5,1000.0,949.57,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,retargeting_preaprovado,RJ,2
+2947676884,user_120820,2026-03-12,19,96.7,0,0,5,7000.0,6610.42,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+2949321686,user_130844,2026-03-21,19,85.8,0,0,5,1000.0,928.18,IOS,7.43.0,iOS 18,BR,Curitiba,direct,(none),always_on_credito,PR,2
+2976736347,user_125463,2026-03-16,20,85.3,0,0,5,3000.0,2847.84,IOS,7.42.0,iOS 18,BR,Belo Horizonte,organic,organic,always_on_credito,MG,2
+2987031182,user_139578,2026-03-16,19,74.2,0,0,5,7000.0,6510.04,IOS,7.42.0,iOS 18,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+2995322430,user_125858,2026-03-19,19,80.2,0,0,5,1500.0,1445.62,ANDROID,7.41.1,Android 14,BR,Porto Alegre,push,push_notification,always_on_credito,RS,2
+2997326244,user_131972,2026-03-13,18,66.0,0,0,5,1000.0,942.53,IOS,7.42.0,iOS 18,BR,Porto Alegre,push,push_notification,cross_sell_folha,RS,2
+3030962289,user_118518,2026-03-26,19,89.0,0,0,5,1000.0,946.64,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+3041644506,user_110290,2026-03-31,17,69.8,0,0,5,3000.0,2798.75,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+3059917864,user_124640,2026-03-11,18,97.0,0,0,5,10000.0,9234.5,ANDROID,7.42.0,Android 14,BR,Salvador,direct,(none),campanha_marco_consignado,BA,2
+3063311836,user_132691,2026-03-27,18,83.6,0,0,5,5000.0,4688.9,ANDROID,7.42.0,Android 14,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+3069726096,user_136524,2026-03-29,18,76.6,0,0,5,5000.0,4651.91,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,retargeting_preaprovado,RJ,2
+3080491242,user_122769,2026-03-17,18,91.2,0,0,5,7000.0,6577.56,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,cross_sell_folha,PR,2
+3088217851,user_119734,2026-03-02,20,126.0,0,0,5,10000.0,9269.51,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+3100569902,user_110359,2026-03-15,19,71.9,0,0,5,10000.0,9733.49,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+3108921596,user_137717,2026-03-25,19,98.3,0,0,5,30000.0,29176.27,ANDROID,7.41.1,Android 14,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+3109223338,user_107549,2026-04-01,18,74.6,0,0,5,3000.0,2834.75,IOS,7.41.0,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+3124466151,user_131131,2026-03-13,20,107.6,0,0,5,3000.0,2968.74,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+3151626789,user_136808,2026-03-31,18,76.3,0,0,5,2000.0,1912.63,IOS,7.43.0,iOS 18,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+3159517889,user_115638,2026-03-22,19,95.9,0,0,5,15000.0,14768.12,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+3164214428,user_118667,2026-03-30,19,86.7,0,0,5,10000.0,9650.45,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),retargeting_preaprovado,MG,2
+3177673194,user_119631,2026-03-12,19,109.4,0,0,5,5000.0,4845.81,IOS,7.41.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+3205106648,user_134164,2026-03-28,18,76.4,0,0,5,2000.0,1930.24,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),retargeting_preaprovado,RS,2
+3216490927,user_121166,2026-03-02,20,107.0,0,0,5,5000.0,4879.39,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+3225267514,user_138280,2026-03-08,20,106.9,0,0,5,30000.0,27660.77,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),campanha_marco_consignado,PR,2
+3227132885,user_120566,2026-03-25,20,106.6,0,0,5,15000.0,14278.53,IOS,7.42.0,iOS 18,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+3230895599,user_129141,2026-03-24,18,67.2,0,0,5,1000.0,926.44,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,(not set),SP,2
+3238716979,user_120342,2026-03-06,19,100.5,0,0,5,5000.0,4822.8,IOS,7.41.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+3240655264,user_109074,2026-03-16,18,82.4,0,0,5,30000.0,28523.53,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+3250412984,user_121573,2026-03-26,18,103.7,0,0,5,7000.0,6902.94,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+3260432095,user_116708,2026-03-29,18,92.4,0,0,5,5000.0,4686.63,IOS,7.42.0,iOS 18,BR,Curitiba,paid_search,cpc,cross_sell_folha,PR,2
+3263965459,user_105287,2026-03-21,19,75.2,0,0,5,1500.0,1454.24,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+3265511632,user_107170,2026-03-12,19,97.4,0,0,5,1500.0,1423.27,IOS,7.43.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+3286659864,user_101143,2026-03-03,19,89.2,0,0,5,7000.0,6838.84,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,retargeting_preaprovado,RJ,2
+3298739501,user_105312,2026-03-12,18,102.1,0,0,5,5000.0,4786.57,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+3317529446,user_120950,2026-03-13,18,92.3,0,0,5,10000.0,9738.08,IOS,7.41.1,iOS 18,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+3323174678,user_115655,2026-03-04,19,81.1,0,0,5,1500.0,1458.91,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+3325396966,user_122415,2026-03-22,18,87.7,0,0,5,15000.0,14284.63,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+3349898051,user_105471,2026-03-31,19,90.2,0,0,5,1500.0,1399.7,IOS,7.41.1,iOS 18,BR,Curitiba,direct,(none),retargeting_preaprovado,PR,2
+3357718485,user_113489,2026-03-15,20,102.1,0,0,5,5000.0,4895.22,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),campanha_marco_consignado,SP,2
+3362440414,user_112280,2026-03-31,19,97.2,0,0,5,30000.0,28510.14,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+3380589662,user_137387,2026-03-15,18,82.6,0,0,5,1000.0,962.75,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+3388186307,user_115141,2026-03-27,18,72.7,0,0,5,1000.0,942.01,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,(not set),RS,2
+3390409701,user_105413,2026-03-27,19,84.0,0,0,5,7000.0,6768.58,ANDROID,7.42.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+3400440081,user_118703,2026-03-07,18,98.7,0,0,5,10000.0,9204.77,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+3401744213,user_108414,2026-03-09,19,77.7,0,0,5,3000.0,2808.12,IOS,7.41.0,iOS 18,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+3423850675,user_131732,2026-03-17,19,89.0,0,0,5,10000.0,9453.87,IOS,7.41.1,iOS 18,BR,Salvador,crm_email,email,(not set),BA,2
+3424493528,user_130668,2026-03-02,19,106.6,0,0,5,10000.0,9477.75,ANDROID,7.41.1,Android 14,BR,Salvador,direct,(none),cross_sell_folha,BA,2
+3427755744,user_104615,2026-03-13,19,97.9,0,0,5,5000.0,4802.3,ANDROID,7.41.1,Android 14,BR,Salvador,organic,organic,(not set),BA,2
+3429419738,user_137027,2026-03-14,18,94.7,0,0,5,15000.0,14754.11,IOS,7.43.0,iOS 18,BR,Salvador,paid_search,cpc,cross_sell_folha,BA,2
+3475078556,user_129300,2026-03-19,19,101.0,0,0,5,7000.0,6921.0,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+3481505301,user_131669,2026-03-01,19,99.8,0,0,5,5000.0,4631.35,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+3498530823,user_111918,2026-03-17,18,75.0,0,0,5,10000.0,9271.37,ANDROID,7.43.0,Android 14,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+3500985977,user_120678,2026-03-11,20,109.8,0,0,5,20000.0,19637.66,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,direct,(none),always_on_credito,RJ,2
+3504804449,user_102055,2026-03-21,19,111.9,0,0,5,1500.0,1435.05,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,paid_search,cpc,retargeting_preaprovado,RJ,2
+3508227734,user_105021,2026-03-21,18,73.2,0,0,5,1500.0,1381.37,IOS,7.41.1,iOS 18,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+3518890447,user_134879,2026-03-24,18,81.6,0,0,5,10000.0,9238.76,ANDROID,7.42.0,Android 14,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+3528968389,user_122642,2026-03-14,20,116.6,0,0,5,1000.0,973.83,ANDROID,7.42.0,Android 14,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+3533039750,user_129046,2026-03-07,19,86.2,0,0,5,2000.0,1972.77,ANDROID,7.42.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+3542537367,user_112037,2026-03-27,19,102.1,0,0,5,1500.0,1404.33,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+3549900900,user_123613,2026-03-23,19,91.1,0,0,5,20000.0,18860.5,IOS,7.41.1,iOS 18,BR,São Paulo,push,push_notification,(not set),SP,2
+3575183204,user_120815,2026-03-13,19,79.2,0,0,5,30000.0,28043.12,IOS,7.41.0,iOS 18,BR,Belo Horizonte,organic,organic,retargeting_preaprovado,MG,2
+3575269338,user_126335,2026-03-22,19,90.0,0,0,5,20000.0,18853.57,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,(not set),PR,2
+3579395244,user_102474,2026-03-08,18,82.8,0,0,5,7000.0,6864.06,ANDROID,7.43.0,Android 14,BR,Curitiba,paid_search,cpc,(not set),PR,2
+3582726808,user_109608,2026-03-16,17,87.8,0,0,5,1000.0,941.15,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+3593408161,user_120029,2026-03-11,18,84.1,0,0,5,1500.0,1394.02,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+3601517379,user_105238,2026-03-26,18,81.1,0,0,5,15000.0,13874.06,ANDROID,7.41.1,Android 14,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+3631754239,user_113824,2026-03-17,18,87.3,0,0,5,10000.0,9278.33,ANDROID,7.41.1,Android 14,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+3652586596,user_121838,2026-03-19,19,92.5,0,0,5,1000.0,957.04,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,organic,organic,always_on_credito,RJ,2
+3663372246,user_116489,2026-03-29,18,82.9,0,0,5,5000.0,4722.97,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,always_on_credito,RJ,2
+3677749115,user_112700,2026-03-27,18,79.7,0,0,5,20000.0,18625.78,IOS,7.41.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+3678084934,user_116064,2026-03-06,19,86.8,0,0,5,5000.0,4874.4,IOS,7.43.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+3680428887,user_122536,2026-03-23,19,87.0,0,0,5,10000.0,9886.22,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,(not set),BA,2
+3710431469,user_133864,2026-03-14,19,94.2,0,0,5,3000.0,2803.51,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+3710826515,user_132874,2026-03-19,18,91.4,0,0,5,2000.0,1903.82,IOS,7.41.1,iOS 18,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+3712817846,user_127798,2026-03-01,18,80.6,0,0,5,10000.0,9337.34,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+3716741708,user_130637,2026-03-07,19,97.1,0,0,5,7000.0,6727.57,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,push,push_notification,campanha_marco_consignado,RJ,2
+3717597280,user_116443,2026-03-14,18,72.9,0,0,5,15000.0,14550.79,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+3732080355,user_134387,2026-03-30,18,97.6,0,0,5,5000.0,4922.08,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+3769838120,user_110175,2026-03-17,18,82.3,0,0,5,1500.0,1428.08,ANDROID,7.41.0,Android 14,BR,Porto Alegre,direct,(none),always_on_credito,RS,2
+3774155689,user_117032,2026-03-26,18,97.1,0,0,5,1500.0,1416.37,IOS,7.41.0,iOS 18,BR,Porto Alegre,direct,(none),retargeting_preaprovado,RS,2
+3787491155,user_123448,2026-03-07,19,100.2,0,0,5,30000.0,28401.08,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+3803364491,user_135500,2026-03-26,19,77.9,0,0,5,1500.0,1423.28,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+3827828496,user_109896,2026-03-06,19,92.2,0,0,5,7000.0,6473.06,IOS,7.43.0,iOS 18,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+3839239134,user_137873,2026-03-20,19,87.7,0,0,5,3000.0,2896.88,IOS,7.41.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+3844679142,user_101149,2026-03-10,18,98.0,0,0,5,1000.0,986.74,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+3856552123,user_129200,2026-03-08,18,113.3,0,0,5,1500.0,1380.31,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+3858537968,user_132432,2026-03-04,19,89.2,0,0,5,1500.0,1450.46,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+3860401012,user_122196,2026-03-06,19,74.7,0,0,5,30000.0,28618.95,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+3860973588,user_115952,2026-03-25,19,99.9,0,0,5,3000.0,2968.66,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+3861787706,user_127243,2026-03-08,19,97.4,0,0,5,7000.0,6520.22,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+3863062828,user_130678,2026-03-23,18,112.2,0,0,5,20000.0,18806.25,ANDROID,7.41.0,Android 14,BR,Curitiba,direct,(none),(not set),PR,2
+3877177218,user_123846,2026-03-17,19,92.7,0,0,5,10000.0,9872.98,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,(not set),MG,2
+3890732628,user_126142,2026-03-30,18,74.7,0,0,5,5000.0,4906.24,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,(not set),PR,2
+3893763941,user_138788,2026-03-18,20,106.5,0,0,5,30000.0,28349.89,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+3951498258,user_122958,2026-03-17,19,77.4,0,0,5,15000.0,14587.65,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+3954140984,user_106844,2026-03-20,19,78.7,0,0,5,7000.0,6684.27,IOS,7.42.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+3959548202,user_120287,2026-03-06,18,85.5,0,0,5,2000.0,1848.33,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,crm_email,email,always_on_credito,RJ,2
+3959748402,user_131732,2026-03-15,19,82.0,0,0,5,30000.0,28851.38,IOS,7.43.0,iOS 18,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+3974446820,user_126058,2026-03-14,19,84.5,0,0,5,30000.0,28620.69,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+3977028910,user_117480,2026-03-22,20,91.1,0,0,5,2000.0,1867.61,IOS,7.41.1,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+3981791032,user_105252,2026-03-26,18,71.2,0,0,5,15000.0,14051.77,ANDROID,7.42.0,Android 14,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+3987431471,user_116883,2026-03-05,18,84.7,0,0,5,3000.0,2894.52,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,retargeting_preaprovado,MG,2
+3988434319,user_134699,2026-03-09,19,94.5,0,0,5,2000.0,1867.88,IOS,7.43.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+3993436731,user_138115,2026-03-30,19,94.9,0,0,5,15000.0,13868.94,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+3997905911,user_102467,2026-03-24,18,82.1,0,0,5,1000.0,956.63,IOS,7.42.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+4008206510,user_115740,2026-03-18,19,68.1,0,0,5,20000.0,18802.72,IOS,7.41.0,iOS 18,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+4018186253,user_114346,2026-03-04,18,87.4,0,0,5,5000.0,4948.03,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+4020654284,user_138775,2026-03-15,19,85.9,0,0,5,5000.0,4866.25,IOS,7.43.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+4029979826,user_132465,2026-03-25,19,91.3,0,0,5,20000.0,18734.92,IOS,7.41.1,iOS 18,BR,São Paulo,direct,(none),(not set),SP,2
+4050698424,user_104793,2026-03-16,20,94.3,0,0,5,10000.0,9508.36,IOS,7.43.0,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+4059721886,user_132739,2026-03-17,17,90.2,0,0,5,2000.0,1902.13,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+4062505940,user_107975,2026-03-11,19,91.0,0,0,5,10000.0,9462.28,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+4069716125,user_107859,2026-03-14,19,94.0,0,0,5,1000.0,921.74,ANDROID,7.42.0,Android 14,BR,Curitiba,direct,(none),(not set),PR,2
+4082579858,user_110818,2026-03-07,18,92.8,0,0,5,5000.0,4892.06,IOS,7.41.0,iOS 18,BR,São Paulo,crm_email,email,(not set),SP,2
+4085315910,user_118439,2026-03-19,18,93.9,0,0,5,1500.0,1381.66,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+4089868408,user_129686,2026-03-28,20,96.1,0,0,5,10000.0,9376.36,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),(not set),SP,2
+4097951965,user_104296,2026-03-02,19,110.1,0,0,5,1000.0,975.54,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+4105865884,user_100314,2026-03-23,19,115.4,0,0,5,15000.0,14144.53,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,(not set),SP,2
+4109081233,user_105225,2026-03-31,17,78.1,0,0,5,5000.0,4634.26,IOS,7.42.0,iOS 18,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+4115619010,user_121689,2026-03-20,18,102.4,0,0,5,15000.0,14461.59,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,cross_sell_folha,SP,2
+4129336032,user_106815,2026-03-19,18,85.3,0,0,5,7000.0,6875.67,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,always_on_credito,PR,2
+4129675008,user_109357,2026-03-18,18,76.4,0,0,5,1500.0,1454.85,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+4135451347,user_133110,2026-03-09,18,77.0,0,0,5,3000.0,2880.3,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+4153930279,user_123478,2026-03-05,18,90.6,0,0,5,5000.0,4928.85,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+4154387083,user_130203,2026-04-01,19,91.8,0,0,5,1500.0,1465.04,IOS,7.41.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+4155833782,user_121534,2026-03-27,19,88.3,0,0,5,2000.0,1923.2,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+4169366117,user_125317,2026-03-11,20,99.2,0,0,5,1500.0,1390.28,IOS,7.41.0,iOS 18,BR,Porto Alegre,direct,(none),cross_sell_folha,RS,2
+4179489130,user_126670,2026-03-09,18,75.7,0,0,5,30000.0,27906.19,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,(not set),BA,2
+4190395365,user_118567,2026-03-12,19,103.4,0,0,5,15000.0,13989.61,IOS,7.43.0,iOS 18,BR,Curitiba,crm_email,email,(not set),PR,2
+4196738772,user_113975,2026-03-23,19,89.1,0,0,5,5000.0,4618.72,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),(not set),MG,2
+4211657858,user_130902,2026-03-12,18,77.9,0,0,5,1000.0,975.85,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+4216976840,user_122390,2026-03-09,19,109.3,0,0,5,7000.0,6501.21,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),(not set),RS,2
+4221204296,user_128448,2026-03-23,18,82.9,0,0,5,10000.0,9575.86,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+4222226414,user_105703,2026-03-20,19,98.0,0,0,5,15000.0,14085.17,ANDROID,7.41.1,Android 14,BR,Porto Alegre,in_app_banner,app_internal,cross_sell_folha,RS,2
+4227215236,user_127418,2026-03-22,18,103.2,0,0,5,1000.0,923.97,ANDROID,7.43.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+4231416085,user_106636,2026-03-28,18,88.2,0,0,5,15000.0,14562.52,ANDROID,7.41.1,Android 14,BR,Salvador,paid_search,cpc,campanha_marco_consignado,BA,2
+4237786675,user_110586,2026-03-22,19,107.4,0,0,5,1500.0,1397.45,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+4237990047,user_111913,2026-03-31,18,103.8,0,0,5,3000.0,2952.0,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+4244017254,user_127613,2026-03-25,18,76.5,0,0,5,3000.0,2876.26,ANDROID,7.41.1,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+4250926775,user_138451,2026-03-18,18,79.8,0,0,5,15000.0,13936.7,ANDROID,7.43.0,Android 14,BR,Curitiba,push,push_notification,(not set),PR,2
+4253994730,user_101850,2026-03-05,18,88.7,0,0,5,20000.0,19180.91,IOS,7.42.0,iOS 18,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+4256948651,user_100488,2026-03-25,18,77.6,0,0,5,1500.0,1385.77,IOS,7.41.0,iOS 18,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+4259961101,user_118204,2026-03-22,18,94.8,0,0,5,15000.0,14667.96,IOS,7.41.1,iOS 18,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+4260741259,user_127943,2026-03-06,19,95.4,0,0,5,1000.0,923.97,IOS,7.41.0,iOS 18,BR,Porto Alegre,crm_email,email,retargeting_preaprovado,RS,2
+4262536346,user_119606,2026-03-31,18,63.5,0,0,5,5000.0,4641.78,IOS,7.41.1,iOS 18,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+4263356155,user_126880,2026-03-04,19,81.1,0,0,5,15000.0,14136.5,IOS,7.42.0,iOS 18,BR,Belo Horizonte,push,push_notification,retargeting_preaprovado,MG,2
+4266998218,user_137605,2026-03-07,20,97.5,0,0,5,5000.0,4734.54,IOS,7.41.1,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+4268703610,user_115657,2026-03-13,18,91.4,0,0,5,15000.0,14155.64,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,cross_sell_folha,BA,2
+4280662030,user_131903,2026-03-06,18,78.3,0,0,5,15000.0,14150.96,IOS,7.43.0,iOS 18,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+4284854253,user_115545,2026-03-02,19,101.8,0,0,5,20000.0,19075.65,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+4288874071,user_137958,2026-03-27,19,75.8,0,0,5,1500.0,1457.32,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+4295189563,user_123947,2026-03-08,19,85.1,0,0,5,5000.0,4627.95,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,retargeting_preaprovado,RJ,2
+4295275680,user_100362,2026-03-18,19,74.0,0,0,5,2000.0,1972.36,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+4297419405,user_129077,2026-03-23,19,100.7,0,0,5,10000.0,9678.17,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,campanha_marco_consignado,PR,2
+4317852146,user_135838,2026-03-27,19,97.6,0,0,5,1500.0,1452.07,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,crm_email,email,always_on_credito,RJ,2
+4327430867,user_127891,2026-03-04,19,86.6,0,0,5,1500.0,1472.49,IOS,7.41.0,iOS 18,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+4363278683,user_134221,2026-03-04,19,92.8,0,0,5,2000.0,1891.15,IOS,7.41.1,iOS 18,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+4373235872,user_111330,2026-03-13,18,87.3,0,0,5,1500.0,1429.92,IOS,7.42.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+4374138574,user_108114,2026-03-04,19,98.8,0,0,5,3000.0,2883.4,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+4375538271,user_130480,2026-03-21,20,111.9,0,0,5,10000.0,9522.7,ANDROID,7.41.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+4385994278,user_129932,2026-03-09,19,91.8,0,0,5,5000.0,4664.9,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,always_on_credito,SP,2
+4392057959,user_135265,2026-03-07,19,96.0,0,0,5,1000.0,922.19,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,always_on_credito,SP,2
+4394117838,user_131962,2026-03-24,19,101.9,0,0,5,5000.0,4634.28,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+4395307172,user_119394,2026-03-27,19,94.7,0,0,5,7000.0,6660.45,IOS,7.42.0,iOS 18,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+4399026949,user_117519,2026-03-22,19,107.4,0,0,5,3000.0,2893.66,IOS,7.43.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+4407617749,user_123260,2026-03-04,18,81.5,0,0,5,2000.0,1944.67,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+4408292559,user_106596,2026-03-03,18,90.3,0,0,5,1500.0,1437.92,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,cross_sell_folha,SP,2
+4414545641,user_104701,2026-03-05,18,68.5,0,0,5,30000.0,29582.82,IOS,7.41.1,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+4424677988,user_105249,2026-03-17,18,103.4,0,0,5,20000.0,19181.43,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+4431539244,user_111751,2026-03-23,18,62.1,0,0,5,15000.0,14611.41,IOS,7.43.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+4431891988,user_138686,2026-03-17,19,103.0,0,0,5,1000.0,950.4,IOS,7.41.1,iOS 18,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+4441259103,user_105980,2026-03-27,17,84.8,0,0,5,1000.0,976.34,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+4456935491,user_119346,2026-03-21,20,99.4,0,0,5,1000.0,955.18,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,retargeting_preaprovado,MG,2
+4468021770,user_111972,2026-03-01,19,86.1,0,0,5,1500.0,1477.59,IOS,7.42.0,iOS 18,BR,São Paulo,direct,(none),campanha_marco_consignado,SP,2
+4477912029,user_105245,2026-03-24,18,84.7,0,0,5,15000.0,14516.49,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+4490187393,user_100552,2026-03-08,19,96.2,0,0,5,1000.0,963.87,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,push,push_notification,retargeting_preaprovado,MG,2
+4501388316,user_132102,2026-03-01,19,91.6,0,0,5,1500.0,1452.28,ANDROID,7.43.0,Android 14,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+4510771222,user_129005,2026-03-02,18,83.3,0,0,5,2000.0,1924.05,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+4510963028,user_121718,2026-03-28,19,72.9,0,0,5,5000.0,4688.12,IOS,7.43.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,campanha_marco_consignado,SP,2
+4512572932,user_136685,2026-04-01,18,78.5,0,0,5,20000.0,19647.43,ANDROID,7.41.0,Android 14,BR,Porto Alegre,push,push_notification,(not set),RS,2
+4513901136,user_114661,2026-03-01,18,95.5,0,0,5,2000.0,1959.15,IOS,7.41.1,iOS 18,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+4519581350,user_123361,2026-03-18,19,94.8,0,0,5,7000.0,6711.21,IOS,7.43.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,campanha_marco_consignado,PR,2
+4522466572,user_125848,2026-03-08,19,106.1,0,0,5,5000.0,4816.63,IOS,7.43.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+4528901081,user_106059,2026-03-17,18,102.5,0,0,5,20000.0,19158.84,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,direct,(none),always_on_credito,RJ,2
+4534042055,user_120006,2026-03-28,19,111.3,0,0,5,10000.0,9308.6,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,(not set),MG,2
+4548764710,user_138712,2026-03-15,19,88.6,0,0,5,15000.0,14747.27,ANDROID,7.41.1,Android 14,BR,Curitiba,direct,(none),(not set),PR,2
+4559982580,user_132338,2026-03-18,20,101.9,0,0,5,1500.0,1460.43,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+4590363306,user_111099,2026-03-31,19,87.7,0,0,5,1500.0,1411.13,ANDROID,7.43.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+4595199915,user_128470,2026-03-12,19,99.4,0,0,5,7000.0,6814.86,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+4599751796,user_130414,2026-03-13,20,96.9,0,0,5,1000.0,922.91,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+4610781618,user_113574,2026-03-19,19,86.6,0,0,5,20000.0,19484.75,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+4618040202,user_125814,2026-03-30,18,88.9,0,0,5,30000.0,29111.77,IOS,7.42.0,iOS 18,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+4637539802,user_109009,2026-03-25,19,90.8,0,0,5,7000.0,6496.02,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+4667508196,user_118258,2026-03-27,18,80.0,0,0,5,7000.0,6611.98,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+4675686205,user_112351,2026-03-31,20,87.7,0,0,5,30000.0,29024.11,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+4679434699,user_110673,2026-03-05,17,70.9,0,0,5,15000.0,14747.96,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+4684250633,user_108598,2026-03-04,19,87.5,0,0,5,2000.0,1934.99,IOS,7.43.0,iOS 18,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+4690178416,user_128555,2026-03-21,20,104.3,0,0,5,15000.0,14107.75,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+4692866477,user_139119,2026-03-24,19,107.4,0,0,5,5000.0,4798.11,ANDROID,7.43.0,Android 14,BR,São Paulo,direct,(none),(not set),SP,2
+4695452709,user_139795,2026-03-25,18,78.6,0,0,5,1500.0,1424.09,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+4696511488,user_137918,2026-03-23,19,86.9,0,0,5,1000.0,940.41,ANDROID,7.42.0,Android 14,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+4711121367,user_117801,2026-03-21,19,100.9,0,0,5,2000.0,1939.82,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,organic,organic,always_on_credito,MG,2
+4720956864,user_121487,2026-03-23,19,95.1,0,0,5,10000.0,9738.51,IOS,7.42.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+4749970488,user_139457,2026-03-27,18,102.9,0,0,5,15000.0,14653.11,IOS,7.42.0,iOS 18,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+4754055949,user_138838,2026-03-01,19,107.0,0,0,5,20000.0,19542.18,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+4762358911,user_138953,2026-03-28,19,86.0,0,0,5,3000.0,2880.79,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+4765740736,user_135244,2026-03-27,17,91.8,0,0,5,2000.0,1958.86,ANDROID,7.41.0,Android 14,BR,Salvador,crm_email,email,cross_sell_folha,BA,2
+4766065933,user_112029,2026-03-29,18,102.4,0,0,5,1500.0,1441.66,IOS,7.42.0,iOS 18,BR,Curitiba,push,push_notification,cross_sell_folha,PR,2
+4773892836,user_118722,2026-03-29,19,87.6,0,0,5,30000.0,28166.11,ANDROID,7.43.0,Android 14,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+4794986160,user_134986,2026-03-06,19,91.6,0,0,5,1500.0,1391.45,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+4810817863,user_107666,2026-03-10,19,80.5,0,0,5,1500.0,1482.81,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+4812393660,user_133266,2026-03-30,19,83.3,0,0,5,30000.0,29625.13,IOS,7.41.1,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+4817462882,user_138739,2026-03-22,19,93.3,0,0,5,15000.0,14326.28,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,campanha_marco_consignado,SP,2
+4827853521,user_121523,2026-03-26,19,101.3,0,0,5,3000.0,2945.49,IOS,7.42.0,iOS 18,BR,São Paulo,direct,(none),(not set),SP,2
+4830402884,user_127201,2026-03-04,18,83.1,0,0,5,5000.0,4758.45,IOS,7.42.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+4834927790,user_117757,2026-03-03,19,90.2,0,0,5,7000.0,6808.35,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,paid_search,cpc,cross_sell_folha,MG,2
+4866237530,user_106346,2026-03-16,20,105.4,0,0,5,1500.0,1469.73,IOS,7.41.0,iOS 18,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+4871567242,user_124342,2026-03-21,18,88.4,0,0,5,1000.0,941.52,ANDROID,7.41.0,Android 14,BR,Porto Alegre,push,push_notification,retargeting_preaprovado,RS,2
+4872049258,user_105592,2026-03-18,18,79.1,0,0,5,1000.0,931.72,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+4872416357,user_116221,2026-03-16,19,91.2,0,0,5,15000.0,14206.15,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+4874928387,user_113676,2026-03-24,18,89.5,0,0,5,5000.0,4778.31,IOS,7.42.0,iOS 18,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+4885758921,user_112410,2026-03-07,17,76.0,0,0,5,1000.0,952.86,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+4892277748,user_127757,2026-03-03,19,90.8,0,0,5,5000.0,4928.34,IOS,7.41.1,iOS 18,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+4896236966,user_125836,2026-03-06,19,90.1,0,0,5,1000.0,974.52,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+4898182283,user_115431,2026-03-15,19,87.3,0,0,5,5000.0,4894.16,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),retargeting_preaprovado,MG,2
+4916359445,user_104080,2026-03-23,19,79.5,0,0,5,1500.0,1428.84,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,(not set),PR,2
+4918912063,user_101157,2026-03-14,19,100.5,0,0,5,20000.0,18606.37,IOS,7.43.0,iOS 18,BR,Belo Horizonte,push,push_notification,retargeting_preaprovado,MG,2
+4919235554,user_115620,2026-03-03,19,94.2,0,0,5,15000.0,14681.8,ANDROID,7.41.0,Android 14,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+4926086780,user_112930,2026-03-15,18,80.3,0,0,5,30000.0,29473.17,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+4926531676,user_101343,2026-03-04,19,92.3,0,0,5,10000.0,9616.29,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,(not set),SP,2
+4934376736,user_101343,2026-03-20,18,84.3,0,0,5,2000.0,1946.42,ANDROID,7.41.1,Android 14,BR,Porto Alegre,direct,(none),(not set),RS,2
+4948105815,user_127602,2026-03-03,20,107.6,0,0,5,5000.0,4855.34,ANDROID,7.41.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+4977013291,user_133190,2026-03-22,19,91.0,0,0,5,1000.0,977.44,IOS,7.42.0,iOS 18,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+4987182165,user_126822,2026-03-05,19,89.1,0,0,5,7000.0,6867.06,IOS,7.42.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+4987751109,user_127877,2026-03-13,19,67.8,0,0,5,10000.0,9693.54,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,campanha_marco_consignado,PR,2
+4991219919,user_137256,2026-03-07,19,92.4,0,0,5,2000.0,1907.42,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+4993443190,user_134803,2026-03-26,18,53.3,0,0,5,5000.0,4761.92,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+4996769305,user_133016,2026-03-24,18,90.2,0,0,5,2000.0,1931.74,IOS,7.43.0,iOS 18,BR,Curitiba,paid_search,cpc,(not set),PR,2
+5010368714,user_133381,2026-03-12,18,82.0,0,0,5,2000.0,1891.32,IOS,7.41.1,iOS 18,BR,Salvador,paid_search,cpc,cross_sell_folha,BA,2
+5019866235,user_107138,2026-03-10,18,105.1,0,0,5,20000.0,19039.1,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+5040202974,user_124932,2026-03-23,19,82.1,0,0,5,1500.0,1464.94,IOS,7.42.0,iOS 18,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+5048588991,user_106636,2026-03-22,19,96.4,0,0,5,5000.0,4765.94,ANDROID,7.41.1,Android 14,BR,São Paulo,direct,(none),retargeting_preaprovado,SP,2
+5058090563,user_138079,2026-03-02,19,75.1,0,0,5,1500.0,1400.87,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,retargeting_preaprovado,MG,2
+5062098004,user_109494,2026-03-09,20,91.1,0,0,5,5000.0,4837.03,ANDROID,7.41.0,Android 14,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+5065115179,user_128412,2026-03-16,19,88.7,0,0,5,1000.0,968.13,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+5066482017,user_133315,2026-03-31,19,85.3,0,0,5,1000.0,953.55,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+5088583545,user_109759,2026-03-27,18,73.2,0,0,5,7000.0,6696.65,ANDROID,7.41.1,Android 14,BR,Salvador,paid_search,cpc,campanha_marco_consignado,BA,2
+5092757930,user_130966,2026-03-18,19,121.4,0,0,5,10000.0,9386.69,IOS,7.42.0,iOS 18,BR,Curitiba,direct,(none),always_on_credito,PR,2
+5113292486,user_108586,2026-03-18,19,91.6,0,0,5,7000.0,6827.44,IOS,7.42.0,iOS 18,BR,Belo Horizonte,organic,organic,campanha_marco_consignado,MG,2
+5113683975,user_103613,2026-03-19,18,82.3,0,0,5,10000.0,9843.76,IOS,7.41.0,iOS 18,BR,Porto Alegre,direct,(none),(not set),RS,2
+5120882002,user_134870,2026-03-08,19,94.3,0,0,5,15000.0,14083.26,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+5123872330,user_113727,2026-03-10,19,106.1,0,0,5,1500.0,1482.35,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+5124188569,user_100384,2026-03-02,18,66.5,0,0,5,10000.0,9712.95,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+5128290815,user_115332,2026-03-30,18,74.2,0,0,5,5000.0,4798.54,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+5140918915,user_110809,2026-03-20,19,96.7,0,0,5,10000.0,9736.77,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+5147116432,user_114194,2026-03-18,19,99.8,0,0,5,15000.0,14419.98,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,retargeting_preaprovado,MG,2
+5148710480,user_106981,2026-03-24,18,79.0,0,0,5,1000.0,936.71,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),always_on_credito,SP,2
+5158785635,user_135984,2026-03-04,19,105.0,0,0,5,2000.0,1879.38,IOS,7.42.0,iOS 18,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+5169108096,user_107201,2026-03-15,19,95.4,0,0,5,30000.0,28223.8,ANDROID,7.41.1,Android 14,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+5170482591,user_119806,2026-03-20,20,105.2,0,0,5,1500.0,1427.3,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+5188221219,user_102421,2026-03-23,19,87.0,0,0,5,1000.0,935.54,IOS,7.43.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+5189693632,user_113607,2026-03-20,18,66.6,0,0,5,1500.0,1440.63,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+5200712399,user_130701,2026-03-04,19,83.9,0,0,5,7000.0,6680.5,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,(not set),BA,2
+5210321079,user_130096,2026-03-16,19,83.3,0,0,5,20000.0,19213.15,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+5216908137,user_103103,2026-03-16,18,91.7,0,0,5,5000.0,4893.42,IOS,7.43.0,iOS 18,BR,Belo Horizonte,organic,organic,retargeting_preaprovado,MG,2
+5217896323,user_130568,2026-03-15,20,92.2,0,0,5,7000.0,6670.2,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+5239981623,user_138024,2026-03-19,17,89.3,0,0,5,15000.0,13843.94,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+5249273440,user_107569,2026-03-21,19,81.3,0,0,5,10000.0,9523.8,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+5255502019,user_129646,2026-03-22,19,102.3,0,0,5,30000.0,28262.38,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,cross_sell_folha,RJ,2
+5262722421,user_122451,2026-03-08,18,100.9,0,0,5,3000.0,2838.92,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+5266706103,user_107884,2026-03-10,19,72.4,0,0,5,10000.0,9774.65,IOS,7.41.0,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+5270583750,user_139077,2026-03-07,20,96.3,0,0,5,1500.0,1484.87,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),always_on_credito,SP,2
+5276516365,user_134884,2026-03-24,19,101.9,0,0,5,3000.0,2762.82,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+5277465594,user_128394,2026-03-03,19,90.6,0,0,5,5000.0,4809.88,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+5287872821,user_101227,2026-03-31,18,90.6,0,0,5,1000.0,976.3,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+5294879023,user_129236,2026-03-07,19,92.0,0,0,5,1000.0,974.73,ANDROID,7.43.0,Android 14,BR,Curitiba,push,push_notification,(not set),PR,2
+5299362158,user_132076,2026-03-12,18,97.4,0,0,5,7000.0,6642.82,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,always_on_credito,RJ,2
+5299890448,user_102043,2026-03-19,19,106.1,0,0,5,20000.0,18508.17,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+5317058724,user_103307,2026-03-07,18,72.6,0,0,5,10000.0,9423.33,IOS,7.43.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+5317954428,user_126036,2026-03-29,19,95.0,0,0,5,20000.0,19420.75,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+5328748265,user_102937,2026-03-27,19,111.7,0,0,5,10000.0,9549.22,ANDROID,7.41.0,Android 14,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+5335676822,user_105230,2026-03-22,20,96.2,0,0,5,5000.0,4632.34,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+5347511464,user_104799,2026-03-30,19,97.9,0,0,5,3000.0,2929.9,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,(not set),PR,2
+5356009604,user_111943,2026-03-03,19,84.4,0,0,5,20000.0,18405.45,IOS,7.41.1,iOS 18,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+5359794239,user_126657,2026-03-02,18,86.1,0,0,5,2000.0,1932.94,IOS,7.41.1,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+5365362515,user_113687,2026-03-02,19,95.1,0,0,5,7000.0,6616.32,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,(not set),RJ,2
+5369741103,user_133046,2026-03-06,19,96.7,0,0,5,7000.0,6488.38,ANDROID,7.42.0,Android 14,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+5378527155,user_111514,2026-03-19,18,68.6,0,0,5,2000.0,1897.6,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+5378720070,user_109881,2026-03-03,18,85.8,0,0,5,15000.0,13809.98,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,push,push_notification,campanha_marco_consignado,RJ,2
+5412689137,user_122459,2026-03-13,19,77.9,0,0,5,10000.0,9457.89,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+5414173123,user_112878,2026-03-07,19,99.0,0,0,5,2000.0,1922.05,ANDROID,7.43.0,Android 14,BR,Porto Alegre,crm_email,email,campanha_marco_consignado,RS,2
+5436586439,user_135271,2026-03-20,19,92.1,0,0,5,7000.0,6536.63,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+5437536980,user_116894,2026-03-21,19,106.3,0,0,5,15000.0,14015.74,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,campanha_marco_consignado,MG,2
+5482770934,user_137522,2026-03-12,19,75.0,0,0,5,15000.0,14622.97,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,cross_sell_folha,RS,2
+5495879040,user_107767,2026-03-06,20,109.0,0,0,5,20000.0,19583.25,ANDROID,7.42.0,Android 14,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+5499582793,user_128323,2026-03-01,19,95.8,0,0,5,5000.0,4784.64,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+5524970999,user_124621,2026-03-09,18,70.9,0,0,5,7000.0,6921.59,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+5525685168,user_110071,2026-03-01,19,96.9,0,0,5,30000.0,28758.64,ANDROID,7.43.0,Android 14,BR,São Paulo,push,push_notification,(not set),SP,2
+5527754837,user_102385,2026-03-14,18,88.5,0,0,5,3000.0,2785.02,IOS,7.43.0,iOS 18,BR,Porto Alegre,organic,organic,(not set),RS,2
+5540888969,user_121703,2026-03-04,18,93.2,0,0,5,1500.0,1382.29,IOS,7.43.0,iOS 18,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+5543051684,user_126881,2026-03-21,19,68.0,0,0,5,7000.0,6542.39,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,(not set),RS,2
+5544397903,user_125150,2026-03-01,20,106.9,0,0,5,30000.0,28399.05,IOS,7.41.0,iOS 18,BR,Curitiba,organic,organic,(not set),PR,2
+5545307018,user_117271,2026-03-10,19,98.8,0,0,5,30000.0,28842.42,ANDROID,7.42.0,Android 14,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+5556465120,user_116354,2026-03-07,18,92.5,0,0,5,10000.0,9880.32,IOS,7.42.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+5563499449,user_102994,2026-03-22,20,78.6,0,0,5,5000.0,4807.95,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+5570145764,user_122187,2026-03-16,19,96.4,0,0,5,3000.0,2825.21,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,retargeting_preaprovado,RJ,2
+5570780000,user_124775,2026-03-27,18,83.8,0,0,5,3000.0,2844.83,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+5577786760,user_132594,2026-03-03,20,108.6,0,0,5,1000.0,938.36,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+5579123245,user_102627,2026-03-04,19,106.3,0,0,5,15000.0,13968.32,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,crm_email,email,always_on_credito,MG,2
+5579357771,user_126709,2026-03-18,19,91.2,0,0,5,30000.0,29299.36,IOS,7.41.0,iOS 18,BR,Curitiba,organic,organic,campanha_marco_consignado,PR,2
+5599388684,user_114330,2026-03-03,18,85.8,0,0,5,1000.0,965.26,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+5620262430,user_101498,2026-03-13,19,88.0,0,0,5,10000.0,9318.0,IOS,7.43.0,iOS 18,BR,Belo Horizonte,organic,organic,campanha_marco_consignado,MG,2
+5636159905,user_128177,2026-03-05,19,86.0,0,0,5,7000.0,6514.51,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+5640831420,user_135163,2026-03-24,19,90.2,0,0,5,2000.0,1898.86,ANDROID,7.41.0,Android 14,BR,São Paulo,direct,(none),campanha_marco_consignado,SP,2
+5647332520,user_103995,2026-03-26,19,95.4,0,0,5,3000.0,2834.5,ANDROID,7.43.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+5648976695,user_128718,2026-03-07,18,93.1,0,0,5,2000.0,1854.5,IOS,7.42.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,cross_sell_folha,RS,2
+5664197041,user_100611,2026-03-01,19,79.2,0,0,5,7000.0,6874.48,ANDROID,7.41.1,Android 14,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+5668682003,user_117216,2026-03-23,18,84.3,0,0,5,5000.0,4769.21,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,cross_sell_folha,BA,2
+5668927544,user_103097,2026-03-09,19,95.4,0,0,5,10000.0,9492.67,IOS,7.42.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+5677117791,user_116263,2026-03-26,18,100.3,0,0,5,5000.0,4633.48,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+5679024020,user_119147,2026-03-28,19,75.1,0,0,5,1500.0,1435.41,ANDROID,7.43.0,Android 14,BR,São Paulo,in_app_banner,app_internal,campanha_marco_consignado,SP,2
+5685508435,user_139319,2026-03-09,18,82.0,0,0,5,7000.0,6699.97,IOS,7.41.0,iOS 18,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+5728656493,user_133759,2026-03-12,19,103.7,0,0,5,3000.0,2818.95,IOS,7.42.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+5733690026,user_103082,2026-03-15,19,98.0,0,0,5,1500.0,1414.31,IOS,7.43.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,campanha_marco_consignado,SP,2
+5737945106,user_103651,2026-03-03,19,96.0,0,0,5,7000.0,6795.61,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+5739207899,user_122244,2026-03-02,19,121.9,0,0,5,10000.0,9434.49,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+5743248153,user_129232,2026-03-02,18,74.5,0,0,5,30000.0,27701.58,IOS,7.42.0,iOS 18,BR,Porto Alegre,crm_email,email,always_on_credito,RS,2
+5747930519,user_109122,2026-03-30,18,102.6,0,0,5,20000.0,19772.39,ANDROID,7.41.0,Android 14,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+5755333582,user_127143,2026-03-31,18,88.9,0,0,5,1000.0,942.62,ANDROID,7.42.0,Android 14,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+5756155637,user_122727,2026-03-15,19,102.0,0,0,5,3000.0,2954.73,ANDROID,7.42.0,Android 14,BR,Porto Alegre,direct,(none),always_on_credito,RS,2
+5757094977,user_127866,2026-03-16,18,70.3,0,0,5,2000.0,1904.01,ANDROID,7.43.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+5778454488,user_132250,2026-03-13,18,100.1,0,0,5,1000.0,976.55,ANDROID,7.42.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+5781451919,user_113635,2026-03-09,19,107.0,0,0,5,5000.0,4860.46,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+5809556399,user_121595,2026-03-16,19,92.6,0,0,5,2000.0,1893.02,ANDROID,7.43.0,Android 14,BR,Porto Alegre,paid_search,cpc,(not set),RS,2
+5825959583,user_139035,2026-03-23,19,89.5,0,0,5,30000.0,29526.38,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+5846214274,user_130103,2026-03-24,19,92.5,0,0,5,20000.0,18547.23,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,push,push_notification,campanha_marco_consignado,RJ,2
+5855617764,user_127818,2026-03-31,20,106.9,0,0,5,7000.0,6659.23,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,(not set),BA,2
+5861417316,user_109915,2026-03-18,18,87.1,0,0,5,10000.0,9679.54,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+5869898674,user_115800,2026-03-22,18,93.9,0,0,5,15000.0,14578.28,ANDROID,7.42.0,Android 14,BR,São Paulo,direct,(none),retargeting_preaprovado,SP,2
+5888933616,user_130504,2026-03-07,19,75.5,0,0,5,3000.0,2922.88,ANDROID,7.41.0,Android 14,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+5899934550,user_107846,2026-03-08,19,97.6,0,0,5,7000.0,6585.88,IOS,7.42.0,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+5902690395,user_105946,2026-03-13,19,66.1,0,0,5,1500.0,1384.17,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+5917770496,user_139534,2026-03-07,19,113.1,0,0,5,10000.0,9850.23,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,retargeting_preaprovado,RJ,2
+5957382432,user_108812,2026-03-17,19,98.5,0,0,5,3000.0,2848.78,IOS,7.41.1,iOS 18,BR,São Paulo,crm_email,email,(not set),SP,2
+5959294114,user_114813,2026-03-26,17,90.7,0,0,5,3000.0,2868.4,IOS,7.41.0,iOS 18,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+5963177968,user_134320,2026-03-09,19,74.8,0,0,5,1000.0,967.03,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,cross_sell_folha,RJ,2
+5970275790,user_120102,2026-03-03,19,94.1,0,0,5,5000.0,4618.6,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+5980297680,user_100885,2026-03-06,19,104.4,0,0,5,7000.0,6775.39,ANDROID,7.41.1,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+5993045900,user_113966,2026-03-24,19,103.8,0,0,5,5000.0,4788.1,ANDROID,7.42.0,Android 14,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+6035207435,user_113548,2026-03-17,18,75.8,0,0,5,15000.0,14359.27,IOS,7.41.0,iOS 18,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+6036882285,user_106206,2026-03-11,18,106.5,0,0,5,10000.0,9863.98,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,campanha_marco_consignado,RS,2
+6043041893,user_125529,2026-03-16,19,90.3,0,0,5,1500.0,1389.92,ANDROID,7.41.0,Android 14,BR,Salvador,direct,(none),(not set),BA,2
+6054090965,user_102586,2026-03-22,19,100.6,0,0,5,3000.0,2909.64,ANDROID,7.41.1,Android 14,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+6054259237,user_111467,2026-03-18,19,92.2,0,0,5,3000.0,2774.4,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,direct,(none),always_on_credito,RJ,2
+6061692990,user_124439,2026-03-12,18,67.8,0,0,5,20000.0,19333.28,IOS,7.42.0,iOS 18,BR,Belo Horizonte,push,push_notification,cross_sell_folha,MG,2
+6064992146,user_119482,2026-03-12,18,80.4,0,0,5,3000.0,2857.64,ANDROID,7.43.0,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+6065954775,user_121289,2026-03-29,19,94.7,0,0,5,3000.0,2844.95,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+6066774275,user_122422,2026-03-24,19,97.3,0,0,5,15000.0,14803.65,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,organic,organic,(not set),MG,2
+6074768836,user_113180,2026-03-07,18,87.9,0,0,5,1500.0,1470.24,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,campanha_marco_consignado,SP,2
+6092239802,user_109600,2026-03-08,19,78.9,0,0,5,5000.0,4721.79,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,cross_sell_folha,SP,2
+6106011279,user_120171,2026-03-17,19,91.6,0,0,5,15000.0,14146.84,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,(not set),SP,2
+6110515072,user_128986,2026-03-27,19,81.5,0,0,5,5000.0,4616.07,IOS,7.43.0,iOS 18,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+6113371539,user_107800,2026-03-18,18,84.8,0,0,5,5000.0,4699.59,IOS,7.42.0,iOS 18,BR,Curitiba,paid_search,cpc,(not set),PR,2
+6116555255,user_131823,2026-03-17,17,86.9,0,0,5,3000.0,2830.05,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,push,push_notification,(not set),MG,2
+6123977545,user_104988,2026-03-03,19,93.0,0,0,5,7000.0,6874.54,ANDROID,7.43.0,Android 14,BR,Porto Alegre,crm_email,email,campanha_marco_consignado,RS,2
+6126625374,user_111694,2026-03-06,19,90.3,0,0,5,1000.0,951.43,ANDROID,7.41.1,Android 14,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+6168065297,user_136563,2026-03-24,18,91.0,0,0,5,2000.0,1872.43,ANDROID,7.41.1,Android 14,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+6169036396,user_102295,2026-03-19,20,76.3,0,0,5,1500.0,1478.73,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+6196736407,user_110631,2026-03-13,19,90.3,0,0,5,15000.0,14141.77,ANDROID,7.41.1,Android 14,BR,São Paulo,crm_email,email,(not set),SP,2
+6214737422,user_127036,2026-03-04,18,89.7,0,0,5,2000.0,1909.6,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+6222170883,user_119794,2026-03-11,19,85.7,0,0,5,1000.0,974.81,IOS,7.43.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+6223855282,user_102481,2026-03-04,19,82.3,0,0,5,30000.0,29469.26,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+6228834071,user_107128,2026-03-22,19,99.5,0,0,5,7000.0,6803.06,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+6239248559,user_121003,2026-03-03,18,91.7,0,0,5,1000.0,979.92,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,(not set),SP,2
+6240894891,user_127448,2026-03-03,18,89.1,0,0,5,10000.0,9425.16,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,(not set),MG,2
+6248907171,user_137116,2026-03-08,19,81.7,0,0,5,7000.0,6874.4,ANDROID,7.41.0,Android 14,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+6256198798,user_136836,2026-03-13,18,91.0,0,0,5,30000.0,29499.13,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+6265936203,user_115965,2026-03-05,18,87.5,0,0,5,5000.0,4803.55,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+6281721664,user_131364,2026-03-04,19,97.7,0,0,5,20000.0,19145.28,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+6282808651,user_105115,2026-03-14,19,109.4,0,0,5,10000.0,9713.2,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,crm_email,email,(not set),RJ,2
+6284973750,user_104852,2026-03-20,18,89.0,0,0,5,10000.0,9517.19,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,(not set),BA,2
+6295003553,user_136675,2026-03-04,19,103.6,0,0,5,10000.0,9421.97,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,push,push_notification,campanha_marco_consignado,MG,2
+6301217549,user_100128,2026-03-16,20,106.2,0,0,5,1500.0,1396.45,ANDROID,7.41.0,Android 14,BR,Porto Alegre,crm_email,email,retargeting_preaprovado,RS,2
+6312321070,user_127612,2026-03-13,18,93.9,0,0,5,20000.0,19491.82,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+6316916657,user_106662,2026-03-19,20,103.3,0,0,5,7000.0,6517.09,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,campanha_marco_consignado,PR,2
+6318474255,user_111427,2026-03-19,18,72.8,0,0,5,15000.0,14025.54,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,(not set),BA,2
+6328606376,user_113839,2026-03-31,18,80.6,0,0,5,1500.0,1484.26,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,always_on_credito,SP,2
+6334562169,user_116652,2026-03-10,19,111.4,0,0,5,15000.0,14749.2,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,(not set),RJ,2
+6338065239,user_138552,2026-03-24,18,89.2,0,0,5,10000.0,9565.64,ANDROID,7.41.1,Android 14,BR,Salvador,direct,(none),cross_sell_folha,BA,2
+6345454181,user_130397,2026-03-02,19,80.6,0,0,5,1500.0,1440.61,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),retargeting_preaprovado,PR,2
+6348107910,user_124711,2026-03-25,19,96.3,0,0,5,30000.0,27805.38,IOS,7.42.0,iOS 18,BR,Porto Alegre,direct,(none),(not set),RS,2
+6356804178,user_118321,2026-03-05,18,97.6,0,0,5,30000.0,27757.77,IOS,7.43.0,iOS 18,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+6360472422,user_103173,2026-03-19,19,98.0,0,0,5,15000.0,14803.41,ANDROID,7.41.0,Android 14,BR,Porto Alegre,organic,organic,(not set),RS,2
+6365508966,user_138209,2026-03-07,19,95.2,0,0,5,1000.0,968.3,ANDROID,7.42.0,Android 14,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+6372376479,user_139898,2026-03-14,18,95.7,0,0,5,5000.0,4707.13,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+6378084061,user_118648,2026-03-23,19,94.8,0,0,5,2000.0,1962.07,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,cross_sell_folha,RS,2
+6378972047,user_104830,2026-03-28,18,85.4,0,0,5,7000.0,6555.8,IOS,7.41.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+6382207264,user_138101,2026-03-23,18,84.2,0,0,5,7000.0,6924.31,ANDROID,7.41.0,Android 14,BR,Curitiba,direct,(none),campanha_marco_consignado,PR,2
+6397667066,user_134212,2026-03-08,20,114.8,0,0,5,3000.0,2968.54,IOS,7.41.0,iOS 18,BR,Belo Horizonte,push,push_notification,(not set),MG,2
+6401037527,user_108882,2026-03-11,18,81.0,0,0,5,20000.0,18657.65,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,(not set),BA,2
+6405593877,user_118719,2026-03-04,19,91.2,0,0,5,20000.0,19618.08,IOS,7.42.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,cross_sell_folha,RJ,2
+6431774680,user_125671,2026-03-29,18,76.2,0,0,5,15000.0,13962.65,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+6431950870,user_127818,2026-03-02,19,84.8,0,0,5,15000.0,14096.96,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+6440909216,user_111646,2026-03-18,18,83.0,0,0,5,10000.0,9638.68,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,(not set),BA,2
+6451231761,user_125737,2026-03-08,20,88.0,0,0,5,5000.0,4669.63,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+6461730734,user_106970,2026-03-27,19,94.3,0,0,5,3000.0,2868.35,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+6481873833,user_106956,2026-03-07,20,101.0,0,0,5,20000.0,18697.75,ANDROID,7.42.0,Android 14,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+6517188882,user_131757,2026-03-01,19,93.4,0,0,5,2000.0,1895.76,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+6537784340,user_131521,2026-03-02,19,99.0,0,0,5,30000.0,29118.84,IOS,7.43.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+6543544259,user_115171,2026-03-18,19,103.1,0,0,5,7000.0,6602.13,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),cross_sell_folha,SP,2
+6551461406,user_103983,2026-03-04,19,101.7,0,0,5,15000.0,14168.22,ANDROID,7.42.0,Android 14,BR,São Paulo,direct,(none),retargeting_preaprovado,SP,2
+6574837142,user_121291,2026-03-23,18,75.9,0,0,5,5000.0,4853.26,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+6584926061,user_111444,2026-03-04,19,92.1,0,0,5,7000.0,6913.64,ANDROID,7.43.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+6600642188,user_124545,2026-03-29,18,79.9,0,0,5,7000.0,6484.39,ANDROID,7.41.1,Android 14,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+6601425054,user_125612,2026-03-14,19,94.8,0,0,5,20000.0,19291.85,ANDROID,7.43.0,Android 14,BR,São Paulo,crm_email,email,cross_sell_folha,SP,2
+6606056503,user_104848,2026-03-23,19,96.1,0,0,5,1500.0,1460.48,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+6621757653,user_124083,2026-03-07,19,89.1,0,0,5,20000.0,19321.2,IOS,7.41.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+6632677672,user_104940,2026-03-23,18,98.1,0,0,5,1500.0,1473.77,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+6635743943,user_125409,2026-03-30,18,89.4,0,0,5,5000.0,4877.49,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+6646187007,user_129440,2026-03-29,19,81.4,0,0,5,10000.0,9734.46,ANDROID,7.41.0,Android 14,BR,Porto Alegre,push,push_notification,(not set),RS,2
+6653659781,user_122596,2026-03-08,19,101.1,0,0,5,1000.0,976.03,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+6656363592,user_137692,2026-03-25,19,83.7,0,0,5,1000.0,937.08,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+6659294593,user_107358,2026-03-20,17,79.5,0,0,5,10000.0,9866.05,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+6678158282,user_129873,2026-03-14,19,80.4,0,0,5,15000.0,14392.97,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+6693889095,user_127337,2026-03-13,18,79.9,0,0,5,7000.0,6661.19,ANDROID,7.41.1,Android 14,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+6707299626,user_107903,2026-03-15,20,80.8,0,0,5,10000.0,9251.85,ANDROID,7.41.1,Android 14,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+6710637793,user_100263,2026-03-06,20,98.2,0,0,5,20000.0,18689.83,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,always_on_credito,BA,2
+6713787421,user_106297,2026-03-17,18,94.9,0,0,5,7000.0,6580.09,ANDROID,7.42.0,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+6717457213,user_105594,2026-03-30,19,97.0,0,0,5,7000.0,6753.09,IOS,7.41.0,iOS 18,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+6728800491,user_132167,2026-03-08,19,113.1,0,0,5,2000.0,1929.47,IOS,7.41.1,iOS 18,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+6729090354,user_106377,2026-03-04,19,94.1,0,0,5,3000.0,2796.3,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+6732429129,user_111713,2026-03-10,20,108.8,0,0,5,30000.0,29320.63,IOS,7.41.0,iOS 18,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+6738773936,user_124930,2026-03-23,18,89.2,0,0,5,20000.0,19378.39,ANDROID,7.41.0,Android 14,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+6753167707,user_106903,2026-03-12,19,110.6,0,0,5,10000.0,9411.13,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,(not set),MG,2
+6762360842,user_121336,2026-03-30,17,85.0,0,0,5,1500.0,1457.36,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+6784405006,user_139671,2026-03-16,19,125.8,0,0,5,1000.0,951.7,IOS,7.42.0,iOS 18,BR,Curitiba,direct,(none),always_on_credito,PR,2
+6787630494,user_111660,2026-03-04,20,100.4,0,0,5,15000.0,14128.1,IOS,7.41.0,iOS 18,BR,Curitiba,direct,(none),cross_sell_folha,PR,2
+6790430248,user_118226,2026-03-16,18,90.8,0,0,5,5000.0,4660.32,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+6802662106,user_134829,2026-03-04,19,101.9,0,0,5,5000.0,4630.76,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+6815839603,user_105708,2026-03-14,19,106.8,0,0,5,3000.0,2826.97,IOS,7.41.0,iOS 18,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+6829650110,user_136388,2026-03-07,19,72.2,0,0,5,5000.0,4716.35,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+6837562271,user_107188,2026-03-31,20,102.5,0,0,5,3000.0,2917.11,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,push,push_notification,(not set),RJ,2
+6855352398,user_115092,2026-03-16,18,67.0,0,0,5,1000.0,969.59,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+6867668493,user_104952,2026-03-26,18,87.3,0,0,5,10000.0,9653.05,IOS,7.41.1,iOS 18,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+6900723766,user_103845,2026-03-09,19,83.7,0,0,5,30000.0,28191.76,ANDROID,7.42.0,Android 14,BR,Porto Alegre,crm_email,email,campanha_marco_consignado,RS,2
+6907342040,user_114057,2026-03-25,19,109.0,0,0,5,15000.0,14785.87,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+6909126831,user_126262,2026-03-25,17,83.4,0,0,5,1000.0,947.1,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,(not set),RS,2
+6926464844,user_128285,2026-03-22,18,95.0,0,0,5,2000.0,1877.34,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+6935093271,user_132874,2026-03-28,18,75.0,0,0,5,20000.0,19525.2,ANDROID,7.41.0,Android 14,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+6962673007,user_126223,2026-03-06,18,81.1,0,0,5,30000.0,28503.28,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+6965748130,user_135476,2026-03-14,17,90.6,0,0,5,7000.0,6708.71,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+6966241287,user_135281,2026-03-08,19,96.9,0,0,5,30000.0,28138.59,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+6966875950,user_116269,2026-03-22,20,97.2,0,0,5,10000.0,9775.54,IOS,7.43.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+6968612544,user_139609,2026-03-02,18,84.8,0,0,5,3000.0,2787.39,IOS,7.43.0,iOS 18,BR,Porto Alegre,paid_search,cpc,cross_sell_folha,RS,2
+6974324448,user_116551,2026-03-21,20,105.3,0,0,5,2000.0,1879.46,IOS,7.42.0,iOS 18,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+6989056051,user_112958,2026-03-23,19,96.1,0,0,5,2000.0,1887.96,ANDROID,7.43.0,Android 14,BR,Porto Alegre,push,push_notification,retargeting_preaprovado,RS,2
+7014202032,user_116574,2026-03-02,19,113.1,0,0,5,1500.0,1483.4,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+7017570567,user_103179,2026-03-11,19,96.9,0,0,5,30000.0,29693.98,ANDROID,7.41.0,Android 14,BR,Curitiba,organic,organic,always_on_credito,PR,2
+7021824020,user_132268,2026-03-30,18,82.0,0,0,5,15000.0,14299.76,IOS,7.42.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,campanha_marco_consignado,RS,2
+7038694522,user_108956,2026-03-26,19,105.8,0,0,5,1000.0,939.12,ANDROID,7.42.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+7038737318,user_116815,2026-03-29,19,89.5,0,0,5,20000.0,18570.59,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,cross_sell_folha,MG,2
+7042831687,user_135426,2026-03-30,18,61.8,0,0,5,2000.0,1924.51,IOS,7.41.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+7048436686,user_120833,2026-03-09,18,91.0,0,0,5,5000.0,4724.28,IOS,7.41.1,iOS 18,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+7057374668,user_122563,2026-03-29,18,94.8,0,0,5,20000.0,18765.42,IOS,7.41.0,iOS 18,BR,Salvador,paid_search,cpc,campanha_marco_consignado,BA,2
+7058490292,user_139474,2026-03-15,18,94.4,0,0,5,5000.0,4928.31,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+7061689059,user_111469,2026-03-09,20,98.3,0,0,5,15000.0,14314.46,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+7078415178,user_102950,2026-03-31,18,107.2,0,0,5,1500.0,1398.53,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+7088456145,user_138945,2026-03-01,18,71.2,0,0,5,10000.0,9433.72,ANDROID,7.43.0,Android 14,BR,São Paulo,direct,(none),(not set),SP,2
+7093856127,user_101473,2026-03-02,17,94.6,0,0,5,7000.0,6451.21,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+7094658419,user_113588,2026-03-17,19,115.9,0,0,5,15000.0,14688.55,ANDROID,7.41.1,Android 14,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+7097270206,user_114307,2026-03-12,19,76.6,0,0,5,30000.0,28555.85,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+7100405687,user_100376,2026-03-14,20,84.4,0,0,5,5000.0,4823.2,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,direct,(none),cross_sell_folha,RJ,2
+7100439556,user_118613,2026-03-12,19,99.1,0,0,5,3000.0,2782.13,ANDROID,7.42.0,Android 14,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+7100871078,user_126830,2026-03-18,18,84.2,0,0,5,7000.0,6473.76,ANDROID,7.42.0,Android 14,BR,São Paulo,organic,organic,(not set),SP,2
+7111176547,user_108229,2026-03-30,18,91.2,0,0,5,20000.0,18798.38,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+7115788133,user_104070,2026-03-22,19,97.4,0,0,5,15000.0,13864.33,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+7120389862,user_105482,2026-03-22,18,93.9,0,0,5,1000.0,936.63,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,crm_email,email,(not set),RJ,2
+7125908730,user_109753,2026-03-22,19,90.2,0,0,5,7000.0,6451.29,ANDROID,7.42.0,Android 14,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+7133686465,user_123257,2026-03-07,20,107.6,0,0,5,30000.0,29261.21,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,direct,(none),(not set),RJ,2
+7135167922,user_103320,2026-03-06,19,81.5,0,0,5,5000.0,4622.78,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+7141627385,user_128563,2026-03-19,18,81.0,0,0,5,3000.0,2958.75,IOS,7.41.0,iOS 18,BR,Porto Alegre,push,push_notification,(not set),RS,2
+7160663823,user_108883,2026-03-16,19,82.3,0,0,5,1500.0,1382.28,IOS,7.43.0,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+7167785577,user_118558,2026-03-24,18,93.9,0,0,5,10000.0,9783.43,ANDROID,7.41.1,Android 14,BR,São Paulo,organic,organic,always_on_credito,SP,2
+7171194441,user_118682,2026-03-29,18,104.9,0,0,5,20000.0,18747.43,IOS,7.42.0,iOS 18,BR,Salvador,organic,organic,cross_sell_folha,BA,2
+7173824403,user_114804,2026-03-23,19,81.1,0,0,5,7000.0,6912.6,IOS,7.41.1,iOS 18,BR,Curitiba,push,push_notification,(not set),PR,2
+7174222399,user_123336,2026-03-18,19,97.9,0,0,5,3000.0,2799.78,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+7174524622,user_120073,2026-03-23,17,84.5,0,0,5,1500.0,1454.44,IOS,7.41.1,iOS 18,BR,Porto Alegre,paid_search,cpc,(not set),RS,2
+7183172965,user_104597,2026-03-29,19,80.9,0,0,5,2000.0,1882.52,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+7187503286,user_102362,2026-03-28,18,82.2,0,0,5,3000.0,2867.74,ANDROID,7.42.0,Android 14,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+7203276707,user_136626,2026-03-16,18,71.3,0,0,5,1000.0,942.92,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+7212783169,user_131492,2026-03-07,19,111.1,0,0,5,1000.0,929.61,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,paid_search,cpc,campanha_marco_consignado,MG,2
+7213728464,user_100563,2026-03-08,19,108.0,0,0,5,2000.0,1912.78,ANDROID,7.41.1,Android 14,BR,Salvador,paid_search,cpc,(not set),BA,2
+7221990640,user_125792,2026-03-25,18,62.0,0,0,5,10000.0,9475.73,ANDROID,7.42.0,Android 14,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+7222723962,user_111312,2026-03-18,20,86.6,0,0,5,15000.0,14249.31,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+7231060319,user_122215,2026-03-30,20,98.7,0,0,5,1500.0,1444.52,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,campanha_marco_consignado,RJ,2
+7263613674,user_107517,2026-03-27,19,114.5,0,0,5,5000.0,4885.17,ANDROID,7.41.0,Android 14,BR,Salvador,direct,(none),(not set),BA,2
+7277551288,user_101701,2026-03-12,19,110.3,0,0,5,5000.0,4736.37,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+7287386741,user_107060,2026-03-13,19,105.1,0,0,5,20000.0,19165.06,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+7292456400,user_106057,2026-03-31,20,92.8,0,0,5,1500.0,1437.59,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+7298286775,user_139313,2026-03-27,19,109.4,0,0,5,30000.0,27863.0,ANDROID,7.41.0,Android 14,BR,Salvador,paid_search,cpc,always_on_credito,BA,2
+7305634439,user_130244,2026-03-25,18,73.1,0,0,5,30000.0,28221.1,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+7312254897,user_129862,2026-03-20,17,106.9,0,0,5,1500.0,1403.55,ANDROID,7.42.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+7335281784,user_104484,2026-03-21,17,78.8,0,0,5,2000.0,1877.26,ANDROID,7.42.0,Android 14,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+7337589394,user_124388,2026-03-23,18,72.3,0,0,5,2000.0,1846.37,IOS,7.41.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+7367006901,user_132063,2026-03-30,18,85.3,0,0,5,2000.0,1945.04,IOS,7.41.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+7374072893,user_113299,2026-03-30,20,99.6,0,0,5,5000.0,4639.48,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,cross_sell_folha,RS,2
+7377289371,user_122488,2026-03-03,20,95.2,0,0,5,1000.0,946.02,IOS,7.43.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+7386193940,user_102416,2026-03-21,18,69.2,0,0,5,7000.0,6659.79,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+7389250814,user_138398,2026-03-04,18,80.0,0,0,5,1500.0,1442.6,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,campanha_marco_consignado,SP,2
+7391958518,user_136253,2026-03-29,18,91.8,0,0,5,15000.0,13876.62,IOS,7.41.1,iOS 18,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+7398320997,user_119248,2026-03-12,18,67.3,0,0,5,5000.0,4686.39,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+7399616333,user_100562,2026-03-28,18,95.0,0,0,5,1500.0,1423.48,IOS,7.41.1,iOS 18,BR,Belo Horizonte,push,push_notification,cross_sell_folha,MG,2
+7405044735,user_107872,2026-03-20,19,83.7,0,0,5,30000.0,28705.48,IOS,7.42.0,iOS 18,BR,São Paulo,crm_email,email,(not set),SP,2
+7408598023,user_124944,2026-03-24,19,76.5,0,0,5,2000.0,1958.17,IOS,7.41.1,iOS 18,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+7426780947,user_131165,2026-03-23,18,82.8,0,0,5,5000.0,4771.88,IOS,7.43.0,iOS 18,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+7433170484,user_120414,2026-03-18,19,82.1,0,0,5,2000.0,1878.44,IOS,7.41.1,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,retargeting_preaprovado,MG,2
+7442506607,user_116095,2026-03-12,19,92.1,0,0,5,20000.0,19647.6,ANDROID,7.43.0,Android 14,BR,Curitiba,paid_search,cpc,(not set),PR,2
+7446883029,user_112933,2026-03-27,20,78.2,0,0,5,3000.0,2888.38,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+7447296225,user_109205,2026-03-07,19,102.9,0,0,5,3000.0,2818.06,IOS,7.43.0,iOS 18,BR,Curitiba,paid_search,cpc,cross_sell_folha,PR,2
+7455847493,user_116802,2026-03-09,19,89.9,0,0,5,1000.0,966.84,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+7473238682,user_125185,2026-03-13,18,97.4,0,0,5,2000.0,1941.89,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,always_on_credito,RJ,2
+7474715845,user_112407,2026-03-12,20,96.2,0,0,5,5000.0,4799.08,ANDROID,7.41.0,Android 14,BR,Porto Alegre,direct,(none),cross_sell_folha,RS,2
+7474941099,user_109389,2026-03-11,18,94.4,0,0,5,1000.0,925.54,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,retargeting_preaprovado,MG,2
+7476512509,user_113421,2026-03-27,18,92.4,0,0,5,1000.0,937.18,IOS,7.43.0,iOS 18,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+7479046149,user_121731,2026-03-20,18,88.0,0,0,5,15000.0,14042.65,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+7485827893,user_121897,2026-03-01,19,88.6,0,0,5,10000.0,9861.78,ANDROID,7.42.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+7489830267,user_101011,2026-03-28,18,81.6,0,0,5,7000.0,6894.3,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),(not set),RS,2
+7489983728,user_120211,2026-03-17,19,97.1,0,0,5,30000.0,28545.26,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,(not set),RS,2
+7495969062,user_125412,2026-03-28,20,94.3,0,0,5,1500.0,1454.65,ANDROID,7.41.1,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+7510803034,user_103426,2026-03-11,19,88.2,0,0,5,10000.0,9287.82,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+7516624450,user_121652,2026-03-07,18,79.9,0,0,5,30000.0,28421.3,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+7520327663,user_120868,2026-03-31,19,98.7,0,0,5,2000.0,1908.68,IOS,7.41.1,iOS 18,BR,Belo Horizonte,crm_email,email,(not set),MG,2
+7523717239,user_114496,2026-03-31,18,65.9,0,0,5,10000.0,9346.42,IOS,7.43.0,iOS 18,BR,Salvador,direct,(none),(not set),BA,2
+7526350239,user_120049,2026-03-22,19,83.1,0,0,5,5000.0,4645.07,ANDROID,7.41.0,Android 14,BR,Salvador,crm_email,email,(not set),BA,2
+7529314199,user_105471,2026-03-17,19,92.4,0,0,5,15000.0,14297.33,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,(not set),MG,2
+7539874898,user_135997,2026-03-17,19,94.3,0,0,5,1500.0,1422.55,IOS,7.43.0,iOS 18,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+7543439395,user_117677,2026-03-14,17,80.0,0,0,5,5000.0,4747.82,ANDROID,7.41.1,Android 14,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+7552329314,user_136471,2026-03-01,19,80.2,0,0,5,10000.0,9736.37,ANDROID,7.41.1,Android 14,BR,Salvador,paid_search,cpc,(not set),BA,2
+7553873878,user_109836,2026-03-24,18,80.7,0,0,5,15000.0,14307.88,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,always_on_credito,SP,2
+7555215687,user_100247,2026-03-02,19,114.6,0,0,5,1500.0,1430.45,IOS,7.43.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+7558917537,user_122232,2026-03-29,19,101.4,0,0,5,3000.0,2832.42,ANDROID,7.41.0,Android 14,BR,Salvador,paid_search,cpc,always_on_credito,BA,2
+7559814691,user_105191,2026-03-11,19,86.3,0,0,5,20000.0,19566.01,IOS,7.43.0,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+7560372902,user_134953,2026-03-14,20,93.6,0,0,5,15000.0,14446.06,ANDROID,7.41.0,Android 14,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+7567706129,user_101247,2026-03-18,17,81.4,0,0,5,10000.0,9586.55,ANDROID,7.42.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,cross_sell_folha,RS,2
+7575961236,user_123092,2026-03-24,19,81.8,0,0,5,1000.0,961.48,ANDROID,7.41.0,Android 14,BR,Porto Alegre,crm_email,email,(not set),RS,2
+7594999282,user_115560,2026-03-05,19,92.4,0,0,5,1000.0,955.57,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,retargeting_preaprovado,RJ,2
+7611020332,user_137544,2026-03-09,18,76.8,0,0,5,7000.0,6685.3,IOS,7.41.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+7612988252,user_136766,2026-03-11,20,95.7,0,0,5,1500.0,1435.14,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,(not set),MG,2
+7628948091,user_120434,2026-03-24,17,71.2,0,0,5,2000.0,1972.5,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+7641743244,user_132656,2026-03-02,19,91.3,0,0,5,15000.0,14231.56,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+7658280110,user_119759,2026-03-16,18,99.6,0,0,5,30000.0,29237.78,IOS,7.41.0,iOS 18,BR,Belo Horizonte,push,push_notification,campanha_marco_consignado,MG,2
+7666787482,user_128130,2026-03-09,17,81.2,0,0,5,1000.0,980.58,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,organic,organic,retargeting_preaprovado,RJ,2
+7669899771,user_109028,2026-03-23,18,95.4,0,0,5,30000.0,28111.02,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,crm_email,email,always_on_credito,RJ,2
+7671842053,user_103381,2026-03-17,19,107.4,0,0,5,10000.0,9846.57,ANDROID,7.43.0,Android 14,BR,Salvador,in_app_banner,app_internal,(not set),BA,2
+7694362137,user_129356,2026-03-07,20,81.4,0,0,5,15000.0,14843.04,IOS,7.42.0,iOS 18,BR,Curitiba,organic,organic,(not set),PR,2
+7701441465,user_111482,2026-03-07,18,99.4,0,0,5,5000.0,4842.46,IOS,7.43.0,iOS 18,BR,Belo Horizonte,push,push_notification,campanha_marco_consignado,MG,2
+7702707091,user_107351,2026-03-23,19,83.5,0,0,5,1000.0,956.39,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,campanha_marco_consignado,MG,2
+7728644619,user_116910,2026-03-04,19,96.2,0,0,5,3000.0,2850.79,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+7735716687,user_113817,2026-03-20,19,103.5,0,0,5,7000.0,6488.8,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,(not set),PR,2
+7746160412,user_138647,2026-03-15,19,98.8,0,0,5,3000.0,2804.3,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+7748509839,user_122482,2026-03-05,19,95.6,0,0,5,10000.0,9727.77,IOS,7.43.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+7760287186,user_138312,2026-03-01,19,81.9,0,0,5,15000.0,14275.54,IOS,7.41.1,iOS 18,BR,São Paulo,push,push_notification,retargeting_preaprovado,SP,2
+7760817680,user_131214,2026-03-21,17,85.0,0,0,5,10000.0,9884.72,ANDROID,7.41.1,Android 14,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+7763791367,user_126424,2026-03-27,19,107.2,0,0,5,3000.0,2778.81,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,organic,organic,always_on_credito,MG,2
+7774082571,user_102508,2026-03-08,17,90.5,0,0,5,30000.0,28859.37,ANDROID,7.41.0,Android 14,BR,São Paulo,direct,(none),campanha_marco_consignado,SP,2
+7777468072,user_125657,2026-03-04,17,83.3,0,0,5,15000.0,14653.28,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),always_on_credito,PR,2
+7784272397,user_115838,2026-03-06,19,87.5,0,0,5,15000.0,14543.07,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,cross_sell_folha,RS,2
+7791926098,user_135736,2026-03-14,19,85.7,0,0,5,7000.0,6553.02,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+7795817263,user_121523,2026-03-11,18,98.8,0,0,5,3000.0,2915.17,IOS,7.41.0,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+7799162988,user_106813,2026-03-17,18,76.4,0,0,5,30000.0,29417.56,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+7801297003,user_122750,2026-03-19,19,96.7,0,0,5,20000.0,19715.05,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,campanha_marco_consignado,MG,2
+7804268049,user_132117,2026-03-09,18,64.1,0,0,5,15000.0,13829.32,IOS,7.43.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+7818109360,user_121554,2026-03-28,20,87.6,0,0,5,30000.0,27700.44,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,crm_email,email,cross_sell_folha,RJ,2
+7826782219,user_109760,2026-03-12,19,99.0,0,0,5,15000.0,14157.98,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,crm_email,email,always_on_credito,MG,2
+7828339354,user_106225,2026-03-14,18,67.0,0,0,5,5000.0,4925.76,ANDROID,7.42.0,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+7848141870,user_100341,2026-03-15,19,104.7,0,0,5,1500.0,1404.8,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+7848791075,user_136335,2026-03-28,18,91.1,0,0,5,30000.0,29257.91,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,push,push_notification,(not set),MG,2
+7886001272,user_137131,2026-03-23,19,90.6,0,0,5,20000.0,19610.97,IOS,7.43.0,iOS 18,BR,Curitiba,crm_email,email,retargeting_preaprovado,PR,2
+7890700336,user_138424,2026-03-20,19,96.6,0,0,5,15000.0,14053.42,IOS,7.41.1,iOS 18,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+7904703301,user_104430,2026-03-18,18,91.4,0,0,5,30000.0,28848.98,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,campanha_marco_consignado,RJ,2
+7923497110,user_100345,2026-03-09,18,76.5,0,0,5,5000.0,4657.24,ANDROID,7.41.1,Android 14,BR,Porto Alegre,crm_email,email,(not set),RS,2
+7928183033,user_133250,2026-03-25,18,96.0,0,0,5,5000.0,4777.2,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+7946988104,user_106091,2026-03-24,18,86.0,0,0,5,30000.0,29359.39,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,always_on_credito,SP,2
+7956201275,user_122584,2026-03-03,19,96.9,0,0,5,30000.0,29448.65,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,(not set),RJ,2
+7968290712,user_128827,2026-03-05,19,92.7,0,0,5,20000.0,18432.09,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+7988405574,user_100913,2026-03-10,18,85.6,0,0,5,1500.0,1431.28,ANDROID,7.43.0,Android 14,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+7995273247,user_121547,2026-03-06,19,105.0,0,0,5,7000.0,6540.62,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,cross_sell_folha,RJ,2
+8008214828,user_106417,2026-03-11,18,74.4,0,0,5,15000.0,14659.01,IOS,7.42.0,iOS 18,BR,Belo Horizonte,push,push_notification,campanha_marco_consignado,MG,2
+8014548799,user_129731,2026-03-24,20,99.8,0,0,5,2000.0,1949.81,IOS,7.41.1,iOS 18,BR,Curitiba,paid_search,cpc,(not set),PR,2
+8020991342,user_115550,2026-03-06,19,118.2,0,0,5,2000.0,1843.62,ANDROID,7.41.0,Android 14,BR,Salvador,in_app_banner,app_internal,always_on_credito,BA,2
+8021565831,user_121130,2026-04-01,18,86.8,0,0,5,5000.0,4909.92,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,retargeting_preaprovado,RJ,2
+8045882890,user_102063,2026-03-21,19,93.0,0,0,5,5000.0,4714.35,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),retargeting_preaprovado,BA,2
+8084934672,user_124044,2026-03-22,19,98.3,0,0,5,15000.0,14788.92,IOS,7.41.1,iOS 18,BR,São Paulo,direct,(none),(not set),SP,2
+8091411337,user_134400,2026-03-21,18,77.1,0,0,5,10000.0,9743.63,IOS,7.43.0,iOS 18,BR,Salvador,crm_email,email,retargeting_preaprovado,BA,2
+8097365056,user_112262,2026-03-18,18,85.1,0,0,5,3000.0,2953.23,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),always_on_credito,BA,2
+8101518123,user_101932,2026-03-28,19,91.3,0,0,5,5000.0,4697.97,ANDROID,7.42.0,Android 14,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+8129947313,user_127125,2026-03-20,19,72.1,0,0,5,5000.0,4601.56,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,(not set),PR,2
+8133767324,user_139254,2026-03-16,20,77.6,0,0,5,7000.0,6693.52,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+8148622490,user_122894,2026-03-22,19,98.4,0,0,5,7000.0,6535.96,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,paid_search,cpc,retargeting_preaprovado,RJ,2
+8167462257,user_117706,2026-03-28,18,96.6,0,0,5,15000.0,14692.97,IOS,7.41.1,iOS 18,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+8184017829,user_105197,2026-03-21,18,86.6,0,0,5,7000.0,6514.62,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+8193577784,user_118527,2026-03-22,20,88.8,0,0,5,5000.0,4902.7,ANDROID,7.42.0,Android 14,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+8225884170,user_102777,2026-03-22,19,108.9,0,0,5,1500.0,1454.16,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,direct,(none),retargeting_preaprovado,MG,2
+8227344834,user_133732,2026-03-08,19,92.3,0,0,5,1500.0,1445.36,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,campanha_marco_consignado,MG,2
+8227381213,user_131231,2026-03-28,18,99.8,0,0,5,1000.0,926.3,IOS,7.42.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,retargeting_preaprovado,MG,2
+8228649581,user_138916,2026-03-02,18,92.3,0,0,5,7000.0,6553.5,IOS,7.41.0,iOS 18,BR,São Paulo,organic,organic,always_on_credito,SP,2
+8228981265,user_132748,2026-03-03,19,86.1,0,0,5,1000.0,955.78,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+8238937479,user_112559,2026-03-20,18,96.4,0,0,5,15000.0,14219.42,ANDROID,7.41.1,Android 14,BR,Curitiba,crm_email,email,cross_sell_folha,PR,2
+8239374280,user_104256,2026-03-27,19,95.8,0,0,5,10000.0,9336.99,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+8244656788,user_102757,2026-03-17,18,84.6,0,0,5,20000.0,18475.97,ANDROID,7.43.0,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+8249527494,user_113749,2026-03-21,19,104.4,0,0,5,15000.0,13879.43,IOS,7.41.1,iOS 18,BR,Curitiba,paid_search,cpc,campanha_marco_consignado,PR,2
+8251851585,user_139361,2026-03-26,19,83.1,0,0,5,1500.0,1466.06,IOS,7.42.0,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+8260409826,user_109080,2026-03-05,18,102.3,0,0,5,7000.0,6601.48,ANDROID,7.43.0,Android 14,BR,Curitiba,push,push_notification,retargeting_preaprovado,PR,2
+8262335482,user_136964,2026-03-22,19,98.7,0,0,5,2000.0,1849.56,IOS,7.41.0,iOS 18,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+8263060208,user_123097,2026-03-09,17,71.4,0,0,5,30000.0,29349.33,ANDROID,7.42.0,Android 14,BR,Porto Alegre,push,push_notification,(not set),RS,2
+8264495828,user_133701,2026-03-03,19,94.7,0,0,5,1000.0,938.04,ANDROID,7.41.1,Android 14,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+8264774585,user_134117,2026-03-14,19,91.8,0,0,5,2000.0,1951.89,ANDROID,7.42.0,Android 14,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+8275485513,user_123833,2026-03-14,18,86.8,0,0,5,10000.0,9754.98,IOS,7.41.1,iOS 18,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+8279200387,user_120583,2026-03-27,18,98.1,0,0,5,3000.0,2843.19,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,crm_email,email,(not set),MG,2
+8285446194,user_110781,2026-03-17,19,88.5,0,0,5,2000.0,1849.42,ANDROID,7.41.0,Android 14,BR,Porto Alegre,crm_email,email,campanha_marco_consignado,RS,2
+8291547550,user_137550,2026-03-24,19,100.8,0,0,5,1000.0,987.83,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+8312935130,user_132662,2026-03-05,19,101.6,0,0,5,10000.0,9457.28,IOS,7.43.0,iOS 18,BR,Porto Alegre,direct,(none),retargeting_preaprovado,RS,2
+8313018229,user_129816,2026-03-07,18,83.7,0,0,5,3000.0,2958.92,IOS,7.42.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+8319527702,user_134895,2026-03-12,19,95.4,0,0,5,1500.0,1395.69,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,always_on_credito,BA,2
+8320579818,user_113522,2026-03-07,19,119.3,0,0,5,1500.0,1420.5,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+8323398089,user_111068,2026-03-05,18,72.6,0,0,5,20000.0,19174.46,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+8332145284,user_139056,2026-03-10,18,80.5,0,0,5,10000.0,9530.94,IOS,7.41.0,iOS 18,BR,Salvador,paid_search,cpc,(not set),BA,2
+8334495055,user_137457,2026-03-25,19,108.4,0,0,5,2000.0,1895.14,ANDROID,7.43.0,Android 14,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+8337830898,user_102184,2026-03-22,19,89.9,0,0,5,7000.0,6616.25,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,(not set),MG,2
+8345105846,user_109669,2026-03-16,18,89.7,0,0,5,2000.0,1874.06,ANDROID,7.43.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,cross_sell_folha,RS,2
+8345394974,user_105158,2026-03-19,19,96.2,0,0,5,7000.0,6626.01,ANDROID,7.41.0,Android 14,BR,Porto Alegre,paid_search,cpc,retargeting_preaprovado,RS,2
+8354314587,user_104682,2026-03-21,18,90.1,0,0,5,1500.0,1387.24,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,push,push_notification,(not set),RJ,2
+8357037430,user_108318,2026-03-19,19,91.6,0,0,5,20000.0,19342.41,ANDROID,7.41.1,Android 14,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+8370019974,user_136820,2026-03-14,19,101.4,0,0,5,15000.0,14439.99,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+8371700323,user_106930,2026-03-02,18,89.2,0,0,5,3000.0,2936.72,ANDROID,7.41.1,Android 14,BR,Porto Alegre,organic,organic,cross_sell_folha,RS,2
+8379943179,user_116655,2026-03-03,17,65.4,0,0,5,5000.0,4925.06,ANDROID,7.41.1,Android 14,BR,Porto Alegre,crm_email,email,always_on_credito,RS,2
+8382447915,user_115554,2026-03-18,18,81.5,0,0,5,7000.0,6738.34,IOS,7.42.0,iOS 18,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+8382568991,user_116453,2026-03-16,18,95.0,0,0,5,3000.0,2846.04,IOS,7.43.0,iOS 18,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+8399525712,user_101648,2026-03-12,18,98.3,0,0,5,30000.0,27768.09,IOS,7.43.0,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,retargeting_preaprovado,RS,2
+8403085759,user_127728,2026-03-28,18,93.2,0,0,5,10000.0,9677.1,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),cross_sell_folha,BA,2
+8417889748,user_102322,2026-03-10,18,84.5,0,0,5,1000.0,929.62,ANDROID,7.42.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+8418592886,user_122441,2026-03-21,19,91.9,0,0,5,3000.0,2770.78,ANDROID,7.41.1,Android 14,BR,Curitiba,organic,organic,(not set),PR,2
+8425090031,user_131362,2026-03-07,19,91.8,0,0,5,15000.0,14195.25,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,always_on_credito,RJ,2
+8430814813,user_118116,2026-03-08,20,95.3,0,0,5,1000.0,937.55,IOS,7.41.1,iOS 18,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+8432849846,user_118845,2026-03-22,19,94.8,0,0,5,10000.0,9481.55,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,push,push_notification,(not set),RJ,2
+8437686195,user_130974,2026-03-06,18,81.5,0,0,5,1000.0,962.7,IOS,7.42.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+8447770381,user_126088,2026-03-01,19,79.7,0,0,5,10000.0,9753.74,IOS,7.41.1,iOS 18,BR,Curitiba,direct,(none),campanha_marco_consignado,PR,2
+8448308370,user_106458,2026-03-27,19,89.9,0,0,5,2000.0,1916.58,ANDROID,7.43.0,Android 14,BR,Salvador,paid_search,cpc,(not set),BA,2
+8448771234,user_104385,2026-03-11,18,85.0,0,0,5,10000.0,9884.3,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,crm_email,email,always_on_credito,MG,2
+8450845026,user_127784,2026-03-27,19,100.9,0,0,5,20000.0,19155.03,IOS,7.42.0,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+8500914468,user_110757,2026-03-04,18,104.3,0,0,5,20000.0,18884.79,IOS,7.41.0,iOS 18,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+8502162619,user_123327,2026-03-21,17,98.4,0,0,5,15000.0,14556.81,ANDROID,7.41.0,Android 14,BR,Porto Alegre,organic,organic,(not set),RS,2
+8516218481,user_119328,2026-03-15,18,83.3,0,0,5,5000.0,4919.71,IOS,7.43.0,iOS 18,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+8523022568,user_116738,2026-03-20,19,82.1,0,0,5,1000.0,955.42,ANDROID,7.41.0,Android 14,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+8524861478,user_108742,2026-03-25,18,94.8,0,0,5,7000.0,6614.33,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,push,push_notification,always_on_credito,MG,2
+8530273492,user_124665,2026-03-28,18,115.4,0,0,5,7000.0,6682.37,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+8531796117,user_117510,2026-03-15,18,102.9,0,0,5,7000.0,6568.35,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,organic,organic,(not set),MG,2
+8534766970,user_126739,2026-03-10,20,79.3,0,0,5,20000.0,19310.38,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,(not set),SP,2
+8539849316,user_134857,2026-03-18,17,78.8,0,0,5,3000.0,2965.38,IOS,7.41.0,iOS 18,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+8546807795,user_125365,2026-03-02,19,107.3,0,0,5,20000.0,19269.15,ANDROID,7.41.0,Android 14,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+8568412446,user_103496,2026-03-16,19,104.6,0,0,5,1500.0,1392.29,ANDROID,7.41.1,Android 14,BR,Porto Alegre,direct,(none),(not set),RS,2
+8569589176,user_128668,2026-03-07,19,99.4,0,0,5,1500.0,1476.86,IOS,7.42.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,campanha_marco_consignado,PR,2
+8584354119,user_132792,2026-03-25,19,74.6,0,0,5,1000.0,947.02,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),(not set),BA,2
+8586322392,user_120241,2026-03-11,18,80.9,0,0,5,3000.0,2863.71,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,retargeting_preaprovado,RJ,2
+8603600607,user_126064,2026-03-16,19,89.2,0,0,5,7000.0,6498.02,IOS,7.41.1,iOS 18,BR,Porto Alegre,direct,(none),retargeting_preaprovado,RS,2
+8611104538,user_120077,2026-03-14,18,76.7,0,0,5,20000.0,19460.85,ANDROID,7.42.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+8622923505,user_112245,2026-03-09,20,90.4,0,0,5,3000.0,2911.22,IOS,7.41.0,iOS 18,BR,Salvador,paid_search,cpc,campanha_marco_consignado,BA,2
+8635258980,user_114368,2026-03-21,18,92.3,0,0,5,1500.0,1433.02,IOS,7.41.0,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+8644249425,user_137827,2026-03-24,18,83.7,0,0,5,2000.0,1898.25,ANDROID,7.43.0,Android 14,BR,Salvador,crm_email,email,always_on_credito,BA,2
+8648280257,user_108842,2026-03-24,19,92.7,0,0,5,1000.0,955.37,IOS,7.43.0,iOS 18,BR,Porto Alegre,push,push_notification,retargeting_preaprovado,RS,2
+8652874777,user_124651,2026-03-09,19,89.9,0,0,5,7000.0,6549.49,ANDROID,7.43.0,Android 14,BR,Porto Alegre,push,push_notification,cross_sell_folha,RS,2
+8652910801,user_103402,2026-03-30,20,112.5,0,0,5,1000.0,989.81,IOS,7.42.0,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+8660348262,user_119377,2026-03-20,19,76.3,0,0,5,5000.0,4827.88,IOS,7.42.0,iOS 18,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+8666655826,user_104560,2026-03-16,19,98.3,0,0,5,15000.0,14315.76,IOS,7.41.0,iOS 18,BR,Belo Horizonte,push,push_notification,cross_sell_folha,MG,2
+8677480793,user_134426,2026-03-06,19,75.7,0,0,5,3000.0,2945.24,ANDROID,7.41.0,Android 14,BR,Porto Alegre,direct,(none),cross_sell_folha,RS,2
+8684948173,user_102007,2026-03-11,19,100.5,0,0,5,1000.0,924.33,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,(not set),MG,2
+8694456589,user_138768,2026-03-21,19,84.6,0,0,5,3000.0,2873.03,IOS,7.41.1,iOS 18,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+8699615131,user_131330,2026-03-16,18,96.3,0,0,5,2000.0,1890.61,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,campanha_marco_consignado,RJ,2
+8723182139,user_116426,2026-03-28,18,94.7,0,0,5,7000.0,6923.91,IOS,7.42.0,iOS 18,BR,Porto Alegre,push,push_notification,campanha_marco_consignado,RS,2
+8723892474,user_134511,2026-03-27,19,99.0,0,0,5,1500.0,1469.39,ANDROID,7.42.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+8727455880,user_108976,2026-03-30,18,105.9,0,0,5,20000.0,19063.16,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,organic,organic,(not set),MG,2
+8737456849,user_109398,2026-03-19,18,70.5,0,0,5,30000.0,27703.89,ANDROID,7.41.1,Android 14,BR,Porto Alegre,push,push_notification,cross_sell_folha,RS,2
+8737877352,user_139131,2026-03-01,20,95.1,0,0,5,7000.0,6880.05,ANDROID,7.41.1,Android 14,BR,São Paulo,push,push_notification,(not set),SP,2
+8752929693,user_135570,2026-03-06,18,98.5,0,0,5,20000.0,18998.48,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,crm_email,email,(not set),RJ,2
+8783475943,user_102107,2026-03-28,18,70.0,0,0,5,1500.0,1421.36,ANDROID,7.41.0,Android 14,BR,Salvador,paid_search,cpc,always_on_credito,BA,2
+8789369199,user_105353,2026-03-11,18,90.4,0,0,5,1000.0,924.63,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,always_on_credito,RJ,2
+8791349122,user_129040,2026-03-09,20,84.4,0,0,5,20000.0,19200.35,ANDROID,7.42.0,Android 14,BR,Salvador,organic,organic,always_on_credito,BA,2
+8794002598,user_117777,2026-03-16,17,84.9,0,0,5,2000.0,1931.64,IOS,7.41.1,iOS 18,BR,São Paulo,paid_search,cpc,always_on_credito,SP,2
+8822817451,user_111399,2026-03-30,19,105.8,0,0,5,5000.0,4712.89,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,retargeting_preaprovado,RS,2
+8823332640,user_119370,2026-03-17,19,97.9,0,0,5,10000.0,9773.13,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+8825842083,user_128886,2026-03-14,17,92.0,0,0,5,2000.0,1931.17,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,(not set),SP,2
+8857091825,user_108260,2026-03-09,18,83.6,0,0,5,20000.0,18501.55,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,push,push_notification,campanha_marco_consignado,RJ,2
+8862896995,user_137024,2026-03-21,17,83.4,0,0,5,3000.0,2805.66,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+8871650250,user_106439,2026-03-02,19,86.2,0,0,5,20000.0,19557.62,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+8872644081,user_132821,2026-03-14,18,82.1,0,0,5,1000.0,939.35,ANDROID,7.41.0,Android 14,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+8875268753,user_120051,2026-03-07,19,99.3,0,0,5,3000.0,2889.98,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,(not set),SP,2
+8881881791,user_133893,2026-03-03,20,117.8,0,0,5,1000.0,933.87,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,(not set),RJ,2
+8886730150,user_129331,2026-03-03,19,90.1,0,0,5,7000.0,6652.66,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+8892294931,user_134353,2026-03-10,18,74.3,0,0,5,1000.0,923.6,IOS,7.41.1,iOS 18,BR,Salvador,paid_search,cpc,(not set),BA,2
+8902963636,user_121310,2026-03-15,19,75.7,0,0,5,30000.0,28961.86,IOS,7.41.0,iOS 18,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+8908366267,user_113663,2026-03-11,19,103.4,0,0,5,1500.0,1479.3,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+8926028451,user_122835,2026-03-01,18,90.1,0,0,5,1500.0,1403.34,ANDROID,7.43.0,Android 14,BR,Porto Alegre,organic,organic,(not set),RS,2
+8950122776,user_139380,2026-03-01,19,93.0,0,0,5,1000.0,927.58,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+8951234251,user_130323,2026-03-06,19,96.6,0,0,5,3000.0,2856.84,ANDROID,7.41.1,Android 14,BR,São Paulo,organic,organic,campanha_marco_consignado,SP,2
+8951285293,user_121617,2026-03-03,18,105.1,0,0,5,7000.0,6773.59,ANDROID,7.41.1,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+8991478959,user_121134,2026-03-28,19,103.2,0,0,5,1000.0,985.79,ANDROID,7.43.0,Android 14,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+8993279171,user_135445,2026-03-05,17,72.7,0,0,5,30000.0,28537.49,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+8993290314,user_114391,2026-03-24,18,95.5,0,0,5,20000.0,19030.73,IOS,7.43.0,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+8994911712,user_100420,2026-03-20,18,91.4,0,0,5,1000.0,967.34,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,paid_search,cpc,campanha_marco_consignado,RJ,2
+8998318095,user_126525,2026-04-01,20,87.1,0,0,5,10000.0,9795.62,ANDROID,7.41.0,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+9009390464,user_121553,2026-03-22,18,81.7,0,0,5,3000.0,2932.67,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+9019066491,user_128757,2026-03-27,19,99.5,0,0,5,1000.0,939.56,IOS,7.41.1,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+9021327072,user_125489,2026-03-21,19,99.1,0,0,5,1000.0,954.23,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,retargeting_preaprovado,SP,2
+9024110254,user_121333,2026-03-08,19,88.8,0,0,5,3000.0,2947.96,IOS,7.43.0,iOS 18,BR,São Paulo,push,push_notification,cross_sell_folha,SP,2
+9025577078,user_111774,2026-03-12,18,102.8,0,0,5,3000.0,2925.01,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,always_on_credito,PR,2
+9042771545,user_125506,2026-03-27,19,114.9,0,0,5,1500.0,1415.33,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+9060387896,user_110440,2026-03-04,19,98.5,0,0,5,10000.0,9846.03,IOS,7.41.0,iOS 18,BR,Porto Alegre,paid_search,cpc,always_on_credito,RS,2
+9093614862,user_127444,2026-03-07,18,83.8,0,0,5,20000.0,19151.57,IOS,7.41.1,iOS 18,BR,Porto Alegre,push,push_notification,retargeting_preaprovado,RS,2
+9103042177,user_138871,2026-03-22,18,107.8,0,0,5,1500.0,1421.98,ANDROID,7.41.1,Android 14,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+9105088462,user_102339,2026-03-07,17,82.0,0,0,5,3000.0,2950.78,ANDROID,7.42.0,Android 14,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+9124138212,user_118721,2026-03-15,20,105.4,0,0,5,1000.0,982.45,ANDROID,7.41.0,Android 14,BR,Curitiba,paid_search,cpc,always_on_credito,PR,2
+9127101861,user_119320,2026-03-09,19,106.2,0,0,5,5000.0,4640.2,ANDROID,7.43.0,Android 14,BR,Porto Alegre,paid_search,cpc,campanha_marco_consignado,RS,2
+9139624245,user_117882,2026-03-19,19,99.8,0,0,5,2000.0,1970.05,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,campanha_marco_consignado,RJ,2
+9158499033,user_115529,2026-03-16,18,88.0,0,0,5,1500.0,1454.1,IOS,7.42.0,iOS 18,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+9174039293,user_107873,2026-03-20,18,78.5,0,0,5,1500.0,1418.44,IOS,7.41.1,iOS 18,BR,São Paulo,in_app_banner,app_internal,retargeting_preaprovado,SP,2
+9180111928,user_136753,2026-03-23,19,106.1,0,0,5,3000.0,2822.76,IOS,7.41.1,iOS 18,BR,Curitiba,organic,organic,always_on_credito,PR,2
+9187393120,user_109292,2026-03-26,19,103.2,0,0,5,7000.0,6582.53,IOS,7.41.1,iOS 18,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+9189779143,user_119752,2026-03-14,19,81.9,0,0,5,1500.0,1385.27,ANDROID,7.43.0,Android 14,BR,Salvador,direct,(none),campanha_marco_consignado,BA,2
+9205370079,user_133636,2026-03-09,19,86.5,0,0,5,7000.0,6711.05,ANDROID,7.42.0,Android 14,BR,São Paulo,crm_email,email,cross_sell_folha,SP,2
+9211002033,user_122489,2026-03-08,18,95.2,0,0,5,30000.0,28231.09,ANDROID,7.43.0,Android 14,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+9213890238,user_116391,2026-03-03,20,104.3,0,0,5,30000.0,28752.45,IOS,7.41.0,iOS 18,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+9219150192,user_134042,2026-03-19,18,85.9,0,0,5,1500.0,1450.86,ANDROID,7.41.0,Android 14,BR,Curitiba,direct,(none),retargeting_preaprovado,PR,2
+9226016563,user_105377,2026-03-16,18,91.2,0,0,5,7000.0,6927.58,IOS,7.41.1,iOS 18,BR,Belo Horizonte,organic,organic,cross_sell_folha,MG,2
+9229537595,user_118907,2026-03-12,19,111.2,0,0,5,2000.0,1843.47,ANDROID,7.41.0,Android 14,BR,São Paulo,organic,organic,retargeting_preaprovado,SP,2
+9231631685,user_110305,2026-03-27,19,115.5,0,0,5,15000.0,14181.34,IOS,7.41.0,iOS 18,BR,Belo Horizonte,paid_search,cpc,always_on_credito,MG,2
+9234855077,user_112560,2026-03-19,19,109.0,0,0,5,30000.0,28452.18,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,(not set),SP,2
+9238748224,user_116970,2026-03-21,19,99.2,0,0,5,20000.0,18898.69,ANDROID,7.41.0,Android 14,BR,São Paulo,direct,(none),retargeting_preaprovado,SP,2
+9241804980,user_120782,2026-03-11,18,96.4,0,0,5,3000.0,2846.31,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,campanha_marco_consignado,RS,2
+9250682927,user_136721,2026-03-27,19,102.0,0,0,5,1000.0,938.95,ANDROID,7.41.0,Android 14,BR,Porto Alegre,in_app_banner,app_internal,always_on_credito,RS,2
+9252266814,user_139409,2026-03-24,19,81.9,0,0,5,30000.0,27659.7,IOS,7.41.0,iOS 18,BR,Curitiba,paid_search,cpc,(not set),PR,2
+9259844792,user_108901,2026-03-30,18,97.2,0,0,5,2000.0,1939.36,ANDROID,7.43.0,Android 14,BR,São Paulo,direct,(none),cross_sell_folha,SP,2
+9263939248,user_130505,2026-03-07,18,80.9,0,0,5,1000.0,976.04,ANDROID,7.41.1,Android 14,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+9265520016,user_129247,2026-03-05,18,101.7,0,0,5,7000.0,6460.93,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,direct,(none),always_on_credito,RJ,2
+9268764057,user_105178,2026-03-27,19,91.1,0,0,5,2000.0,1907.28,IOS,7.41.0,iOS 18,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+9276843469,user_119550,2026-03-25,19,107.3,0,0,5,5000.0,4831.58,IOS,7.42.0,iOS 18,BR,Porto Alegre,organic,organic,always_on_credito,RS,2
+9281133287,user_100403,2026-03-03,19,88.6,0,0,5,3000.0,2812.23,IOS,7.43.0,iOS 18,BR,Porto Alegre,organic,organic,(not set),RS,2
+9288926106,user_131765,2026-03-09,19,78.9,0,0,5,20000.0,18586.61,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,paid_search,cpc,(not set),MG,2
+9293648478,user_122738,2026-04-01,19,84.5,0,0,5,20000.0,19397.08,ANDROID,7.42.0,Android 14,BR,Salvador,crm_email,email,cross_sell_folha,BA,2
+9294730131,user_126321,2026-03-01,18,78.2,0,0,5,2000.0,1880.62,IOS,7.41.0,iOS 18,BR,Belo Horizonte,organic,organic,retargeting_preaprovado,MG,2
+9301261217,user_133315,2026-03-09,19,114.3,0,0,5,2000.0,1869.4,IOS,7.43.0,iOS 18,BR,Curitiba,crm_email,email,(not set),PR,2
+9309083029,user_126902,2026-03-20,19,105.6,0,0,5,3000.0,2837.44,IOS,7.41.1,iOS 18,BR,Salvador,direct,(none),(not set),BA,2
+9323230532,user_139688,2026-03-19,19,105.7,0,0,5,5000.0,4793.59,IOS,7.41.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+9326060413,user_132981,2026-03-06,19,110.1,0,0,5,10000.0,9845.21,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,push,push_notification,always_on_credito,RJ,2
+9335817001,user_108121,2026-03-30,19,95.4,0,0,5,5000.0,4904.7,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,paid_search,cpc,retargeting_preaprovado,MG,2
+9344197782,user_132776,2026-03-14,19,103.9,0,0,5,2000.0,1929.18,IOS,7.41.0,iOS 18,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+9344665858,user_119755,2026-03-09,17,76.1,0,0,5,30000.0,27971.4,IOS,7.43.0,iOS 18,BR,São Paulo,paid_search,cpc,(not set),SP,2
+9351535117,user_114360,2026-03-10,20,109.0,0,0,5,10000.0,9297.31,IOS,7.41.1,iOS 18,BR,Porto Alegre,paid_search,cpc,retargeting_preaprovado,RS,2
+9357751156,user_115312,2026-03-03,19,104.2,0,0,5,3000.0,2838.64,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,crm_email,email,cross_sell_folha,MG,2
+9364517150,user_136258,2026-03-25,19,84.9,0,0,5,10000.0,9379.99,ANDROID,7.43.0,Android 14,BR,Salvador,in_app_banner,app_internal,cross_sell_folha,BA,2
+9373755870,user_120740,2026-03-28,18,85.7,0,0,5,3000.0,2828.7,IOS,7.43.0,iOS 18,BR,Curitiba,push,push_notification,campanha_marco_consignado,PR,2
+9386492057,user_104807,2026-03-02,19,96.2,0,0,5,1000.0,922.7,ANDROID,7.41.0,Android 14,BR,Curitiba,paid_search,cpc,retargeting_preaprovado,PR,2
+9388564687,user_137873,2026-03-17,17,71.5,0,0,5,2000.0,1854.79,ANDROID,7.41.1,Android 14,BR,Curitiba,crm_email,email,(not set),PR,2
+9395150199,user_108883,2026-03-25,19,103.5,0,0,5,30000.0,28923.51,IOS,7.41.0,iOS 18,BR,Rio de Janeiro,crm_email,email,campanha_marco_consignado,RJ,2
+9403693251,user_101517,2026-03-07,20,87.0,0,0,5,15000.0,14644.17,IOS,7.42.0,iOS 18,BR,Salvador,crm_email,email,campanha_marco_consignado,BA,2
+9405661621,user_106491,2026-03-06,19,104.6,0,0,5,20000.0,19312.1,IOS,7.43.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+9408628962,user_123136,2026-03-25,19,86.0,0,0,5,7000.0,6925.25,IOS,7.42.0,iOS 18,BR,Porto Alegre,direct,(none),cross_sell_folha,RS,2
+9416582169,user_103959,2026-03-07,20,102.9,0,0,5,2000.0,1881.22,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,organic,organic,(not set),RJ,2
+9423232306,user_124492,2026-03-04,19,92.8,0,0,5,15000.0,14824.12,IOS,7.41.0,iOS 18,BR,Salvador,organic,organic,(not set),BA,2
+9424047636,user_129035,2026-03-14,19,100.6,0,0,5,7000.0,6443.09,IOS,7.41.0,iOS 18,BR,Belo Horizonte,push,push_notification,cross_sell_folha,MG,2
+9444160047,user_109594,2026-03-26,20,96.7,0,0,5,30000.0,27647.05,IOS,7.41.0,iOS 18,BR,São Paulo,direct,(none),always_on_credito,SP,2
+9444733737,user_116290,2026-03-15,19,99.3,0,0,5,3000.0,2801.63,ANDROID,7.43.0,Android 14,BR,Curitiba,crm_email,email,campanha_marco_consignado,PR,2
+9448257671,user_138323,2026-03-29,18,92.2,0,0,5,2000.0,1888.28,IOS,7.41.1,iOS 18,BR,Curitiba,paid_search,cpc,(not set),PR,2
+9455370849,user_108016,2026-03-29,20,106.9,0,0,5,1500.0,1400.77,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+9457394156,user_126307,2026-03-10,19,88.7,0,0,5,15000.0,13814.69,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,always_on_credito,SP,2
+9472509319,user_108479,2026-03-05,18,77.9,0,0,5,10000.0,9294.05,IOS,7.42.0,iOS 18,BR,Belo Horizonte,direct,(none),cross_sell_folha,MG,2
+9474196307,user_136807,2026-03-30,20,103.7,0,0,5,1000.0,956.91,ANDROID,7.43.0,Android 14,BR,Porto Alegre,crm_email,email,retargeting_preaprovado,RS,2
+9480467103,user_103060,2026-03-01,20,96.0,0,0,5,5000.0,4622.63,IOS,7.42.0,iOS 18,BR,Curitiba,organic,organic,retargeting_preaprovado,PR,2
+9482945750,user_114440,2026-03-05,19,76.6,0,0,5,30000.0,28324.3,IOS,7.41.1,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+9488581501,user_128066,2026-03-24,18,62.9,0,0,5,5000.0,4946.57,ANDROID,7.41.1,Android 14,BR,Salvador,push,push_notification,cross_sell_folha,BA,2
+9502063797,user_114658,2026-03-25,19,96.8,0,0,5,1000.0,984.54,IOS,7.43.0,iOS 18,BR,Belo Horizonte,direct,(none),(not set),MG,2
+9504162274,user_118175,2026-03-30,19,90.0,0,0,5,30000.0,29036.86,ANDROID,7.42.0,Android 14,BR,Salvador,push,push_notification,retargeting_preaprovado,BA,2
+9511353680,user_126798,2026-03-03,18,90.9,0,0,5,2000.0,1881.75,IOS,7.43.0,iOS 18,BR,Curitiba,direct,(none),(not set),PR,2
+9516808079,user_124956,2026-03-09,18,76.5,0,0,5,15000.0,14449.67,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,direct,(none),campanha_marco_consignado,RJ,2
+9519887032,user_111529,2026-03-30,19,103.1,0,0,5,30000.0,29306.3,ANDROID,7.43.0,Android 14,BR,Salvador,direct,(none),campanha_marco_consignado,BA,2
+9537701558,user_109125,2026-03-11,18,96.7,0,0,5,1000.0,983.22,ANDROID,7.41.1,Android 14,BR,Belo Horizonte,crm_email,email,cross_sell_folha,MG,2
+9548970856,user_113558,2026-03-13,17,78.1,0,0,5,1000.0,977.6,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,in_app_banner,app_internal,always_on_credito,MG,2
+9556441407,user_125557,2026-03-01,18,78.4,0,0,5,10000.0,9520.07,IOS,7.41.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,(not set),MG,2
+9565525084,user_100560,2026-03-29,19,101.4,0,0,5,10000.0,9893.45,IOS,7.41.1,iOS 18,BR,Rio de Janeiro,in_app_banner,app_internal,cross_sell_folha,RJ,2
+9572773839,user_127295,2026-03-31,18,93.4,0,0,5,1000.0,937.27,IOS,7.41.1,iOS 18,BR,São Paulo,direct,(none),campanha_marco_consignado,SP,2
+9583567021,user_134573,2026-03-03,19,118.0,0,0,5,2000.0,1926.85,IOS,7.42.0,iOS 18,BR,Salvador,direct,(none),campanha_marco_consignado,BA,2
+9585881204,user_119499,2026-03-10,19,80.6,0,0,5,1000.0,979.03,ANDROID,7.41.0,Android 14,BR,Belo Horizonte,direct,(none),always_on_credito,MG,2
+9588989556,user_121439,2026-03-20,19,80.9,0,0,5,1500.0,1443.88,IOS,7.41.1,iOS 18,BR,Porto Alegre,in_app_banner,app_internal,(not set),RS,2
+9593210664,user_111921,2026-03-04,18,87.5,0,0,5,20000.0,19429.13,ANDROID,7.43.0,Android 14,BR,São Paulo,paid_search,cpc,campanha_marco_consignado,SP,2
+9594472854,user_117145,2026-03-06,18,83.4,0,0,5,30000.0,28942.93,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,cross_sell_folha,BA,2
+9608756252,user_100459,2026-03-08,19,89.5,0,0,5,15000.0,14344.12,IOS,7.41.1,iOS 18,BR,Salvador,in_app_banner,app_internal,retargeting_preaprovado,BA,2
+9610139360,user_138083,2026-03-31,18,94.8,0,0,5,10000.0,9685.4,IOS,7.41.1,iOS 18,BR,Curitiba,push,push_notification,cross_sell_folha,PR,2
+9616764208,user_122726,2026-03-26,19,81.2,0,0,5,10000.0,9443.17,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,(not set),RJ,2
+9629182779,user_125831,2026-03-09,19,93.0,0,0,5,20000.0,19198.64,IOS,7.41.1,iOS 18,BR,Salvador,organic,organic,campanha_marco_consignado,BA,2
+9639936907,user_104189,2026-03-05,19,90.2,0,0,5,20000.0,18835.82,IOS,7.43.0,iOS 18,BR,Rio de Janeiro,organic,organic,cross_sell_folha,RJ,2
+9644639309,user_128125,2026-03-25,18,94.1,0,0,5,30000.0,29281.98,ANDROID,7.41.0,Android 14,BR,Salvador,push,push_notification,(not set),BA,2
+9673418862,user_139898,2026-03-16,18,97.7,0,0,5,15000.0,13962.4,ANDROID,7.42.0,Android 14,BR,Rio de Janeiro,in_app_banner,app_internal,retargeting_preaprovado,RJ,2
+9683683199,user_110465,2026-03-30,19,91.5,0,0,5,1500.0,1435.33,IOS,7.42.0,iOS 18,BR,Belo Horizonte,organic,organic,(not set),MG,2
+9685086794,user_120179,2026-03-29,20,83.5,0,0,5,20000.0,18620.51,ANDROID,7.43.0,Android 14,BR,Curitiba,crm_email,email,(not set),PR,2
+9692882571,user_121334,2026-03-17,19,91.9,0,0,5,2000.0,1878.38,ANDROID,7.42.0,Android 14,BR,Belo Horizonte,direct,(none),campanha_marco_consignado,MG,2
+9715476361,user_128534,2026-03-04,18,86.0,0,0,5,15000.0,13967.69,ANDROID,7.41.0,Android 14,BR,São Paulo,paid_search,cpc,cross_sell_folha,SP,2
+9720532177,user_127142,2026-03-02,18,75.5,0,0,5,30000.0,27700.72,ANDROID,7.42.0,Android 14,BR,Curitiba,organic,organic,cross_sell_folha,PR,2
+9730867187,user_113551,2026-03-09,19,88.9,0,0,5,3000.0,2911.99,ANDROID,7.41.1,Android 14,BR,Salvador,in_app_banner,app_internal,campanha_marco_consignado,BA,2
+9732471324,user_133212,2026-03-24,18,97.1,0,0,5,2000.0,1848.24,IOS,7.42.0,iOS 18,BR,Salvador,paid_search,cpc,retargeting_preaprovado,BA,2
+9740913650,user_133509,2026-03-07,18,95.0,0,0,5,2000.0,1870.4,IOS,7.41.1,iOS 18,BR,Salvador,paid_search,cpc,campanha_marco_consignado,BA,2
+9741994094,user_116554,2026-03-29,19,87.4,0,0,5,7000.0,6762.77,ANDROID,7.41.1,Android 14,BR,Porto Alegre,crm_email,email,retargeting_preaprovado,RS,2
+9749482272,user_131424,2026-03-11,18,98.4,0,0,5,7000.0,6606.8,IOS,7.41.0,iOS 18,BR,Salvador,organic,organic,retargeting_preaprovado,BA,2
+9754653929,user_133443,2026-03-07,19,78.3,0,0,5,15000.0,13928.74,IOS,7.43.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,(not set),PR,2
+9763122272,user_112630,2026-03-20,18,85.1,0,0,5,1000.0,926.87,ANDROID,7.43.0,Android 14,BR,Curitiba,direct,(none),always_on_credito,PR,2
+9787274410,user_118344,2026-03-26,19,96.3,0,0,5,1000.0,940.14,IOS,7.41.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,retargeting_preaprovado,PR,2
+9794525590,user_112581,2026-03-04,19,86.1,0,0,5,3000.0,2826.9,IOS,7.41.1,iOS 18,BR,Porto Alegre,direct,(none),campanha_marco_consignado,RS,2
+9810977558,user_126373,2026-03-21,19,101.6,0,0,5,1500.0,1415.87,IOS,7.42.0,iOS 18,BR,Porto Alegre,crm_email,email,cross_sell_folha,RS,2
+9835792784,user_125846,2026-03-26,18,90.5,0,0,5,20000.0,18821.75,IOS,7.43.0,iOS 18,BR,Salvador,push,push_notification,campanha_marco_consignado,BA,2
+9842773082,user_103527,2026-03-21,20,94.9,0,0,5,3000.0,2761.6,IOS,7.42.0,iOS 18,BR,Curitiba,paid_search,cpc,cross_sell_folha,PR,2
+9870305247,user_136672,2026-03-09,18,99.0,0,0,5,7000.0,6919.01,ANDROID,7.43.0,Android 14,BR,Belo Horizonte,direct,(none),retargeting_preaprovado,MG,2
+9871189494,user_124752,2026-03-05,18,88.2,0,0,5,15000.0,14084.71,ANDROID,7.43.0,Android 14,BR,Curitiba,crm_email,email,always_on_credito,PR,2
+9888032210,user_123209,2026-03-17,19,73.6,0,0,5,2000.0,1950.4,IOS,7.43.0,iOS 18,BR,Belo Horizonte,in_app_banner,app_internal,cross_sell_folha,MG,2
+9888611698,user_109269,2026-03-19,19,76.8,0,0,5,20000.0,18842.44,ANDROID,7.41.0,Android 14,BR,Curitiba,crm_email,email,(not set),PR,2
+9889152648,user_126374,2026-03-18,19,103.6,0,0,5,1000.0,951.65,IOS,7.41.0,iOS 18,BR,São Paulo,crm_email,email,always_on_credito,SP,2
+9906077266,user_131521,2026-03-15,18,92.5,0,0,5,7000.0,6462.12,ANDROID,7.41.1,Android 14,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+9909773177,user_124138,2026-03-24,19,106.3,0,0,5,30000.0,29336.62,IOS,7.42.0,iOS 18,BR,Salvador,push,push_notification,always_on_credito,BA,2
+9914826098,user_106285,2026-03-07,18,64.7,0,0,5,1500.0,1393.75,ANDROID,7.41.1,Android 14,BR,Rio de Janeiro,push,push_notification,cross_sell_folha,RJ,2
+9926230116,user_124488,2026-03-05,18,93.7,0,0,5,1000.0,935.17,ANDROID,7.41.0,Android 14,BR,São Paulo,paid_search,cpc,retargeting_preaprovado,SP,2
+9928709871,user_122998,2026-03-12,19,79.3,0,0,5,15000.0,14550.93,IOS,7.43.0,iOS 18,BR,São Paulo,in_app_banner,app_internal,cross_sell_folha,SP,2
+9932538395,user_104068,2026-03-06,18,77.0,0,0,5,1500.0,1405.48,IOS,7.42.0,iOS 18,BR,São Paulo,push,push_notification,campanha_marco_consignado,SP,2
+9936522230,user_134984,2026-03-18,19,86.1,0,0,5,30000.0,29245.95,ANDROID,7.41.0,Android 14,BR,Rio de Janeiro,organic,organic,campanha_marco_consignado,RJ,2
+9945572841,user_115238,2026-03-19,18,86.4,0,0,5,2000.0,1845.49,IOS,7.42.0,iOS 18,BR,Curitiba,in_app_banner,app_internal,always_on_credito,PR,2
+9947840389,user_113912,2026-03-18,18,80.8,0,0,5,30000.0,27754.87,ANDROID,7.43.0,Android 14,BR,Rio de Janeiro,crm_email,email,retargeting_preaprovado,RJ,2
+9951903275,user_120383,2026-03-15,18,90.8,0,0,5,1500.0,1455.98,ANDROID,7.43.0,Android 14,BR,São Paulo,organic,organic,cross_sell_folha,SP,2
+9957738947,user_130638,2026-03-27,19,96.2,0,0,5,1500.0,1417.93,IOS,7.41.0,iOS 18,BR,Belo Horizonte,crm_email,email,(not set),MG,2
