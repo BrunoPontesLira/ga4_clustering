@@ -1,0 +1,22 @@
+# Dados
+*.jsonl
+*.json
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Resultados gerados
+ga4_clustering/results/
+results/
+
+# IDE
+.vscode/
+.idea/
