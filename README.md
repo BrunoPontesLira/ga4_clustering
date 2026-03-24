@@ -31,9 +31,9 @@ JSONL (GA4 raw events)
         │  TF      — quantas vezes ocorreu
         │  TF-IDF  — frequência ponderada pela raridade
         ▼
-  [4] K-Means (k = 3 e k = 5)
+  [4] K-Means (k = 2 a 8)
         │  Testado em todas as combinações de matriz × k
-        │  Silhouette Score para avaliar qualidade
+        │  Silhouette Score seleciona automaticamente o melhor k
         ▼
   [5] Relatório HTML interativo (Plotly)
         │  Perfil por cluster · Conversão · Engajamento
@@ -73,8 +73,8 @@ ga4_clustering/
 │   ├── clusters/        # Sessões agrupadas por cluster
 │   ├── sublogs/         # Eventos originais por cluster
 │   └── report.html      # Relatório final
-├── run.py               # Ponto de entrada do pipeline
-└── requirements.txt
+├── run.py               # Ponto de entrada do pipeline (argparse)
+└── pyproject.toml       # Dependências e entry point
 ```
 
 ---
@@ -106,15 +106,19 @@ python -m venv .venv
 source .venv/bin/activate     # Linux/Mac
 
 # 2. Instalar dependências
-pip install -r requirements.txt
+pip install -e .
 
-# 3. Apontar para o seu arquivo de dados (em run.py)
-DATA_PATH = "seu_arquivo.jsonl"
+# 3. Rodar o pipeline passando o caminho dos dados
+python -m ga4_clustering.run --data seu_arquivo.jsonl
 
-# 4. Rodar o pipeline (a partir da raiz do repositório)
-python -m ga4_clustering.run
+# Opções disponíveis:
+#   --data         caminho para o JSONL (ou variável de ambiente GA4_DATA_PATH)
+#   --results      diretório de saída (default: ga4_clustering/results)
+#   --k-values     valores de k a testar (default: 2 3 4 5 6 7 8)
+#   --min-events   mínimo de eventos por sessão (default: 3)
+#   --min-event-freq  frequência mínima de uma transição (default: 5)
 
-# 5. Abrir o relatório
+# 4. Abrir o relatório
 ga4_clustering/results/report.html
 ```
 
