@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, silhouette_samples
 
 
-KS = [3, 5]
+KS = list(range(2, 9))  # 2 a 8 — melhor combinação selecionada pelo Silhouette
 
 
 def run_kmeans(matrix: pd.DataFrame, k: int, random_state: int = 42) -> tuple[np.ndarray, float, np.ndarray]:

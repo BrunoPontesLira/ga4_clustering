@@ -77,3 +77,21 @@ def build_session_summary(df: pd.DataFrame) -> pd.DataFrame:
             summary[col] = grp[col].first()
 
     return summary.reset_index()
+
+
+def remove_outlier_sessions(
+    event_log: pd.DataFrame,
+    min_events: int = 3,
+    max_events_percentile: float = 0.99,
+) -> pd.DataFrame:
+    """
+    Remove sessões anômalas por volume de eventos:
+    - Sessões com menos de min_events eventos (sinal insuficiente para clustering)
+    - Sessões acima do percentil max_events_percentile (prováveis bots/crawlers)
+    """
+    sizes = event_log.groupby("ga_session_id").size()
+    p_max = sizes.quantile(max_events_percentile)
+    valid = sizes[(sizes >= min_events) & (sizes <= p_max)].index
+    removed = len(sizes) - len(valid)
+    print(f"  Sessões removidas (outliers): {removed} ({removed/len(sizes)*100:.1f}%)")
+    return event_log[event_log["ga_session_id"].isin(valid)].copy()
