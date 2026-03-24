@@ -42,9 +42,37 @@ JSONL (GA4 raw events)
 
 ---
 
-## Resultados gerados
+## Resultados
 
-O relatório HTML inclui, para cada configuração (matriz × k):
+> Dados: 162.561 eventos · 10.000 sessões · melhor configuração: **Binary k=8** (Silhouette: 0.517)
+
+### Comparação de configurações — Silhouette Score
+
+![Comparação de configurações](assets/silhouette_comparison.png)
+
+### Perfil médio por cluster
+
+![Perfil por cluster](assets/cluster_profile.png)
+
+### Conversão por cluster
+
+![Conversão por cluster](assets/conversion_by_cluster.png)
+
+### Engajamento por cluster
+
+![Engajamento por cluster](assets/engagement_by_cluster.png)
+
+### Top transições por cluster
+
+![Top transições](assets/top_transitions.png)
+
+### Silhouette — melhor configuração (binary k=8)
+
+![Silhouette](assets/silhouette_best.png)
+
+---
+
+## O relatório HTML interativo inclui ainda
 
 | Gráfico | O que revela |
 |---|---|
